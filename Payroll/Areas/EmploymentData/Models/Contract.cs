@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Payroll.Areas.EmploymentData.Contract.Models
+namespace Payroll.Areas.EmploymentData.Models
 {
 	public class Contract
 	{
@@ -22,12 +22,12 @@ namespace Payroll.Areas.EmploymentData.Contract.Models
 		[ForeignKey("ContractType")]
 		public int ContractTypeId { get; set; }
 		[Display(Name = "Contract Type")]
-		public virtual ContractType.Models.ContractType ContractType { get; set; }
+		public virtual ContractType ContractType { get; set; }
 
         [ForeignKey("Workplace")]
         public int WorkplaceId { get; set; }
         [Display(Name = "Workplace")]
-        public virtual Workplace.Models.Workplace Workplace { get; set; }
+        public virtual Workplace Workplace { get; set; }
     }
 }
 

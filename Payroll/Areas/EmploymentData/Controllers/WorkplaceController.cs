@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Payroll.Areas.EmploymentData.Workplace.Models;
+using Payroll.Areas.EmploymentData.Models;
 using Payroll.Data;
 
-namespace Payroll.Areas.EmploymentData.Workplace
+namespace Payroll.Areas.EmploymentData.Controllers
 {
     [Area("EmploymentData")]
     public class WorkplaceController : Controller
@@ -57,7 +57,7 @@ namespace Payroll.Areas.EmploymentData.Workplace
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Salary,Retired")] Models.Workplace workplace)
+        public async Task<IActionResult> Create([Bind("Id,Name,Salary,Retired")] Workplace workplace)
         {
             if (ModelState.IsValid)
             {
@@ -89,7 +89,7 @@ namespace Payroll.Areas.EmploymentData.Workplace
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Salary,Retired")] Models.Workplace workplace)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Salary,Retired")] Workplace workplace)
         {
             if (id != workplace.Id)
             {

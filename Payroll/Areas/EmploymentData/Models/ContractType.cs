@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Payroll.Areas.EmploymentData.ContractType.Models
+namespace Payroll.Areas.EmploymentData.Models
 {
 	public class ContractType
 	{

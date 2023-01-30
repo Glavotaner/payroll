@@ -1,4 +1,4 @@
-@model Payroll.Areas.EmploymentData.Models.Contract
+@model Payroll.Areas.ThirdParties.Models.City
 
 @{
     ViewData["Title"] = "Details";
@@ -7,38 +7,38 @@
 <h1>Details</h1>
 
 <div>
-    <h4>Contract</h4>
+    <h4>City</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Coefficient)
+            @Html.DisplayNameFor(model => model.IBAN)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Coefficient)
+            @Html.DisplayFor(model => model.IBAN)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Start)
+            @Html.DisplayNameFor(model => model.JOPPD)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Start)
+            @Html.DisplayFor(model => model.JOPPD)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.End)
+            @Html.DisplayNameFor(model => model.Name)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.End)
+            @Html.DisplayFor(model => model.Name)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ContractType)
+            @Html.DisplayNameFor(model => model.PostalCode)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ContractType.Id)
+            @Html.DisplayFor(model => model.PostalCode)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Workplace)
+            @Html.DisplayNameFor(model => model.TaxRate)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Workplace.Id)
+            @Html.DisplayFor(model => model.TaxRate)
         </dd>
     </dl>
 </div>

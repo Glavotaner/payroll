@@ -1,8 +1,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
-using Payroll.Areas.EmploymentData.ContractType.Models;
-using Payroll.Areas.EmploymentData.Workplace.Models;
-using Payroll.Areas.EmploymentData.Contract.Models;
+using Payroll.Areas.EmploymentData.Models;
+using Payroll.Areas.ThirdParties.Models;
 
 namespace Payroll.Data
 {
@@ -11,9 +10,12 @@ namespace Payroll.Data
 		public PayrollContext(DbContextOptions<PayrollContext> options) : base(options)
 		{
 		}
-		public DbSet<Payroll.Areas.EmploymentData.ContractType.Models.ContractType> ContractType { get; set; } = default!;
-		public DbSet<Payroll.Areas.EmploymentData.Workplace.Models.Workplace> Workplace { get; set; } = default!;
-		public DbSet<Payroll.Areas.EmploymentData.Contract.Models.Contract> Contract { get; set; } = default!;
+		public DbSet<ContractType> ContractType { get; set; } = default!;
+		public DbSet<Workplace> Workplace { get; set; } = default!;
+		public DbSet<Contract> Contract { get; set; } = default!;
+		public DbSet<Address> Address { get; set; } = default!;
+		public DbSet<City> City { get; set; } = default!;
+		public DbSet<Bank> Bank { get; set; } = default!;
 	}
 }
 

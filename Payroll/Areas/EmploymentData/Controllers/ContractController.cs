@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Payroll.Areas.EmploymentData.Contract.Models;
+using Payroll.Areas.EmploymentData.Models;
 using Payroll.Data;
 
-namespace Payroll.Areas.EmploymentData.Contract
+namespace Payroll.Areas.EmploymentData.Controllers
 {
     [Area("EmploymentData")]
     public class ContractController : Controller
@@ -60,7 +60,7 @@ namespace Payroll.Areas.EmploymentData.Contract
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Coefficient,Start,End,ContractTypeId,WorkplaceId")] Models.Contract contract)
+        public async Task<IActionResult> Create([Bind("Id,Coefficient,Start,End,ContractTypeId,WorkplaceId")] Contract contract)
         {
             if (ModelState.IsValid)
             {
@@ -96,7 +96,7 @@ namespace Payroll.Areas.EmploymentData.Contract
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Coefficient,Start,End,ContractTypeId,WorkplaceId")] Models.Contract contract)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Coefficient,Start,End,ContractTypeId,WorkplaceId")] Contract contract)
         {
             if (id != contract.Id)
             {
