@@ -1,5 +1,8 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using Microsoft.EntityFrameworkCore;
 
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<Payroll.Data.PayrollContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("PayrollContext")));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -19,6 +22,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.MapAreaControllerRoute(
+    name: "EmploymentData", areaName: "EmploymentData", pattern: "EmploymentData/{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
