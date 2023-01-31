@@ -5,9 +5,6 @@ namespace Payroll.Areas.ThirdParties.Models
 {
 	public class Bank
 	{
-		public Bank()
-		{
-		}
 		public int Id { get; set; }
 
 		public string PID { get; set; }

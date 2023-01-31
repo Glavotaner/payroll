@@ -5,9 +5,6 @@ namespace Payroll.Areas.CalculationData.Models
 {
 	public class ContributionsModel
 	{
-		public ContributionsModel()
-		{
-		}
 		public int Id { get; set; }
 
 		public string Name { get; set; }

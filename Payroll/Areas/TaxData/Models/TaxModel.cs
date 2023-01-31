@@ -5,9 +5,6 @@ namespace Payroll.Areas.TaxData.Models
 {
 	public class TaxModel
 	{
-		public TaxModel()
-		{
-		}
 		public int Id { get; set; }
 
         [Display(Name = "Tax Brackets")]

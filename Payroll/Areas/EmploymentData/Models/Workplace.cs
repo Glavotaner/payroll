@@ -3,9 +3,6 @@ namespace Payroll.Areas.EmploymentData.Models
 {
 	public class Workplace
 	{
-		public Workplace()
-		{
-		}
 		public int Id { get; set; }
 
 		public string Name { get; set; }

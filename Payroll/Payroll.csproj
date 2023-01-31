@@ -23,6 +23,13 @@
     <None Remove="Areas\CalculationData\Models\" />
     <None Remove="Areas\TaxData\" />
     <None Remove="Areas\TaxData\Models\" />
+    <None Remove="Areas\HoursData\" />
+    <None Remove="Areas\HoursData\Models\" />
+    <None Remove="Areas\ReimbursementsData\" />
+    <None Remove="Areas\ReimbursementsData\Models\" />
+    <None Remove="Areas\Payroll\Models\" />
+    <None Remove="Areas\PersonData\" />
+    <None Remove="Areas\PersonData\Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -33,6 +40,13 @@
     <Folder Include="Areas\ContributionsData\Models\" />
     <Folder Include="Areas\TaxData\" />
     <Folder Include="Areas\TaxData\Models\" />
+    <Folder Include="Areas\HoursData\" />
+    <Folder Include="Areas\HoursData\Models\" />
+    <Folder Include="Areas\ReimbursementsData\" />
+    <Folder Include="Areas\ReimbursementsData\Models\" />
+    <Folder Include="Areas\PayrollData\Models\" />
+    <Folder Include="Areas\PersonData\" />
+    <Folder Include="Areas\PersonData\Models\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">

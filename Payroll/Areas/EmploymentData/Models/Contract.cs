@@ -6,9 +6,6 @@ namespace Payroll.Areas.EmploymentData.Models
 {
 	public class Contract
 	{
-		public Contract()
-		{
-		}
 		public int Id { get; set; }
 
 		public float Coefficient { get; set; }

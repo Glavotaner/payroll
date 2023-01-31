@@ -5,9 +5,6 @@ namespace Payroll.Areas.TaxData.Models
 {
 	public class TaxBracket
 	{
-		public TaxBracket()
-		{
-		}
 		public int Id { get; set; }
 
 		[Display(Name = "Lower Bound")]

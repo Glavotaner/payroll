@@ -1,12 +1,10 @@
 ﻿using System;
-namespace Payroll.Areas.TaxData.Models
+namespace Payroll.Areas.HoursData.Models
 {
-	public class TaxBreak
+	public class HourType
 	{
 		public int Id { get; set; }
-
 		public string Name { get; set; }
-		public float Rate { get; set; }
 		public bool Retired { get; set; }
 	}
 }

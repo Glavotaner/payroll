@@ -5,9 +5,6 @@ namespace Payroll.Areas.ThirdParties.Models
 {
 	public class City
 	{
-		public City()
-		{
-		}
 		public int Id { get; set; }
 
 		public string IBAN { get; set; }

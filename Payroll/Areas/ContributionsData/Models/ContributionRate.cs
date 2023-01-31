@@ -6,9 +6,6 @@ namespace Payroll.Areas.CalculationData.Models
 {
 	public class ContributionRate
 	{
-		public ContributionRate()
-		{
-		}
 		public int Id { get; set; }
 
 		[ForeignKey("Contribution")]
