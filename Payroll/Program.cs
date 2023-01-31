@@ -2,7 +2,8 @@
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<Payroll.Data.PayrollContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("PayrollContext")));
+builder.Services.AddDbContext<Payroll.Data.PayrollContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("PayrollContext")));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -22,8 +23,16 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-app.MapAreaControllerRoute(
-    name: "EmploymentData", areaName: "EmploymentData", pattern: "EmploymentData/{controller=Home}/{action=Index}/{id?}");
+
+new List<string>() {
+    "EmploymentData",
+    "ThirdParties",
+    "ContributionsData",
+    "TaxData",
+}.ForEach((string area) => app.MapAreaControllerRoute(
+    name: $"{area}",
+    areaName: $"{area}",
+    pattern: $"{area}/{{controller=Home}}/{{action=Index}}/{{id?}}"));
 
 app.MapControllerRoute(
     name: "default",

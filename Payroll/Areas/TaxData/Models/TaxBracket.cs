@@ -1,0 +1,21 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace Payroll.Areas.TaxData.Models
+{
+	public class TaxBracket
+	{
+		public TaxBracket()
+		{
+		}
+		public int Id { get; set; }
+
+		[Display(Name = "Lower Bound")]
+		public float LowerBound { get; set; }
+
+        [Display(Name = "Upper Bound")]
+        public float UpperBound { get; set; }
+		public float Rate { get; set; }
+	}
+}
+

@@ -18,21 +18,21 @@
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
-    <None Remove="Areas\ThirdParties\" />
-    <None Remove="Areas\EmploymentData\Controllers\" />
     <None Remove="Areas\EmploymentData\Models\" />
-    <None Remove="Areas\ThirdParties\Controllers\" />
     <None Remove="Areas\ThirdParties\Models\" />
+    <None Remove="Areas\CalculationData\Models\" />
+    <None Remove="Areas\TaxData\" />
+    <None Remove="Areas\TaxData\Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
     <Folder Include="Areas\EmploymentData\" />
     <Folder Include="Data\" />
-    <Folder Include="Areas\ThirdParties\" />
-    <Folder Include="Areas\EmploymentData\Controllers\" />
     <Folder Include="Areas\EmploymentData\Models\" />
-    <Folder Include="Areas\ThirdParties\Controllers\" />
-    <Folder Include="Areas\ThirdParties\Models\" />
+    <Folder Include="Areas\ThirdPartiesData\Models\" />
+    <Folder Include="Areas\ContributionsData\Models\" />
+    <Folder Include="Areas\TaxData\" />
+    <Folder Include="Areas\TaxData\Models\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">

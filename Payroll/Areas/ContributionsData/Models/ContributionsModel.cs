@@ -1,0 +1,20 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace Payroll.Areas.CalculationData.Models
+{
+	public class ContributionsModel
+	{
+		public ContributionsModel()
+		{
+		}
+		public int Id { get; set; }
+
+		public string Name { get; set; }
+
+		[Display(Name = "Contribution Rates")]
+		public virtual ICollection<ContributionRate> ContributionRates { get; set; }
+		public bool Retired { get; set; }
+	}
+}
+

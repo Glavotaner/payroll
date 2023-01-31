@@ -1,0 +1,21 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace Payroll.Areas.TaxData.Models
+{
+	public class TaxModel
+	{
+		public TaxModel()
+		{
+		}
+		public int Id { get; set; }
+
+        [Display(Name = "Tax Brackets")]
+        public virtual ICollection<TaxBracket> TaxBrackets { get; set; }
+
+		[Display(Name = "Valid From")]
+		[DataType(DataType.Date)]
+		public DateTime ValidFrom { get; set; }
+	}
+}
+
