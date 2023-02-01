@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PayrollApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,13 +26,17 @@ app.UseRouting();
 app.UseAuthorization();
 
 new List<string>() {
-    "EmploymentData",
+    "Employment",
     "ThirdParties",
-    "ContributionsData",
-    "TaxData",
+    "Contributions",
+    "Reimbursements",
+    "Hours",
+    "Payroll",
+    "Person",
+    "Tax",
 }.ForEach((string area) => app.MapAreaControllerRoute(
     name: $"{area}",
-    areaName: $"{area}",
+    areaName: $"{area}Data",
     pattern: $"{area}/{{controller=Home}}/{{action=Index}}/{{id?}}"));
 
 app.MapControllerRoute(
