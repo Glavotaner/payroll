@@ -10,6 +10,7 @@ namespace Payroll.Areas.PayrollData.Models
 		public int Month { get; set; }
 		public virtual Employee Employee { get; set; }
 		public int Hours { get; set; }
+		public virtual ICollection<HourTypeAmount> HourTypeAmounts { get; set; }
 	}
 }
 

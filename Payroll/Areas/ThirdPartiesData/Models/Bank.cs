@@ -10,9 +10,6 @@ namespace Payroll.Areas.ThirdParties.Models
 		public string PID { get; set; }
 		public string Name { get; set; }
 		public string IBAN { get; set; }
-
-		[ForeignKey("Address")]
-		public int AddressId { get; set; }
 		public virtual Address Address { get; set; }
 	}
 }

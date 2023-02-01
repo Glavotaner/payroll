@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using Payroll.Areas.CalculationData.Models;
 using Payroll.Areas.EmploymentData.Models;
 using Payroll.Areas.TaxData.Models;
@@ -26,8 +27,9 @@ namespace Payroll.Areas.PersonData.Models
         [Display(Name = "First Employment With Company")]
         public bool FirstEmploymentWithCompany { get; set; }
 
-        [Display(Name = "Contributions Model")]
+		[Display(Name = "Contributions Model")]
         public virtual ContributionsModel ContributionsModel { get; set; }
+
 		public virtual Contract Contract { get; set; }
 
         [Display(Name = "Tax Breaks")]

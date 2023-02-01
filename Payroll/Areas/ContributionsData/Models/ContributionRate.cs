@@ -8,8 +8,6 @@ namespace Payroll.Areas.CalculationData.Models
 	{
 		public int Id { get; set; }
 
-		[ForeignKey("Contribution")]
-		public int ContributionId { get; set; }
 		public virtual Contribution Contribution { get; set; }
 
 		public float Rate { get; set; }

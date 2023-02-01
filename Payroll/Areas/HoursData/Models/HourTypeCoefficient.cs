@@ -7,8 +7,6 @@ namespace Payroll.Areas.HoursData.Models
 	{
 		public int Id { get; set; }
 
-		public int HourTypeId { get; set; }
-		[ForeignKey("HourType")]
 		public virtual HourType HourType { get; set; }
 
 		public float Coefficient { get; set; }

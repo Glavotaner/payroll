@@ -31,6 +31,9 @@ namespace Payroll.Areas.PayrollData.Models
         [Display(Name = "Contributions Other")]
         public float ContributionsOther { get; set; }
 
+        [Display(Name = "Contribution Amounts")]
+        public virtual ICollection<ContributionAmount> ContributionAmounts { get; set; }
+
         [Display(Name = "Income")]
         public float Income { get; set; }
 
@@ -66,6 +69,9 @@ namespace Payroll.Areas.PayrollData.Models
 
         [Display(Name = "Reimbursement Amount")]
         public float ReimbursementsAmount { get; set; }
+
+        [Display(Name = "Reimbursement Amounts")]
+        public virtual ICollection<ReimbursementAmount> ReimbursementAmounts { get; set; }
 
         [Display(Name = "Labour Cost")]
         public float LabourCost { get; set; }
