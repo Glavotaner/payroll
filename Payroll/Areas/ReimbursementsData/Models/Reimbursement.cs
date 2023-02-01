@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Payroll.Areas.ReimbursementsData.Models
+namespace PayrollApp.Areas.ReimbursementsData.Models
 {
 	public class Reimbursement
 	{

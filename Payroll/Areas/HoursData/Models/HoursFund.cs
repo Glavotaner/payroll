@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Payroll.Areas.HoursData.Models
+namespace PayrollApp.Areas.HoursData.Models
 {
 	public class HoursFund
 	{

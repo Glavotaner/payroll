@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Payroll.Areas.TaxData.Models
+namespace PayrollApp.Areas.TaxData.Models
 {
 	public class TaxBracket
 	{

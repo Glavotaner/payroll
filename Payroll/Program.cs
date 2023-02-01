@@ -2,7 +2,7 @@
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<Payroll.Data.PayrollContext>(options =>
+builder.Services.AddDbContext<PayrollApp.Data.PayrollContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("PayrollContext")));
 // Add services to the container.
 builder.Services.AddControllersWithViews();

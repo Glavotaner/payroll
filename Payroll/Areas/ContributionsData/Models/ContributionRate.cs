@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Payroll.Areas.CalculationData.Models
+namespace PayrollApp.Areas.CalculationData.Models
 {
 	public class ContributionRate
 	{

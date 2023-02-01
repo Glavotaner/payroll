@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Payroll.Areas.PersonData.Models
+namespace PayrollApp.Areas.PersonData.Models
 {
 	public class Person
 	{

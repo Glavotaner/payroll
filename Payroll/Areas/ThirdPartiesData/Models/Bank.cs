@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Payroll.Areas.ThirdParties.Models
+namespace PayrollApp.Areas.ThirdParties.Models
 {
 	public class Bank
 	{

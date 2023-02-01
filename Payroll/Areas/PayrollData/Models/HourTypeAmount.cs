@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using Payroll.Areas.HoursData.Models;
-using Payroll.Areas.ReimbursementsData.Models;
+using PayrollApp.Areas.HoursData.Models;
+using PayrollApp.Areas.ReimbursementsData.Models;
 
-namespace Payroll.Areas.PayrollData.Models
+namespace PayrollApp.Areas.PayrollData.Models
 {
 	public class HourTypeAmount
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Payroll.Areas.CalculationData.Models
+namespace PayrollApp.Areas.CalculationData.Models
 {
 	public class Contribution
 	{

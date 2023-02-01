@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Payroll.Areas.HoursData.Models
+namespace PayrollApp.Areas.HoursData.Models
 {
 	public class HourTypeCoefficient
 	{

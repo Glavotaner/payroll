@@ -1,7 +1,7 @@
 ﻿using System;
-using Payroll.Areas.PersonData.Models;
+using PayrollApp.Areas.PersonData.Models;
 
-namespace Payroll.Areas.PayrollData.Models
+namespace PayrollApp.Areas.PayrollData.Models
 {
 	public class Labour
 	{

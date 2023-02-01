@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Payroll.Areas.ReimbursementsData.Models
+namespace PayrollApp.Areas.ReimbursementsData.Models
 {
 	public class ReimbursementValue
 	{

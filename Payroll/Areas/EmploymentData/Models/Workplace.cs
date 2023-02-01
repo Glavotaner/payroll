@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Payroll.Areas.EmploymentData.Models
+namespace PayrollApp.Areas.EmploymentData.Models
 {
 	public class Workplace
 	{

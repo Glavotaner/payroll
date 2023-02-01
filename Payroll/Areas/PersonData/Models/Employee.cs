@@ -1,12 +1,12 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Payroll.Areas.CalculationData.Models;
-using Payroll.Areas.EmploymentData.Models;
-using Payroll.Areas.TaxData.Models;
-using Payroll.Areas.ThirdParties.Models;
+using PayrollApp.Areas.CalculationData.Models;
+using PayrollApp.Areas.EmploymentData.Models;
+using PayrollApp.Areas.TaxData.Models;
+using PayrollApp.Areas.ThirdParties.Models;
 
-namespace Payroll.Areas.PersonData.Models
+namespace PayrollApp.Areas.PersonData.Models
 {
 	public class Employee : Person
 	{

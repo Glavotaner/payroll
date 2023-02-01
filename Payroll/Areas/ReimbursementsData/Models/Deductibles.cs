@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Payroll.Areas.ReimbursementsData.Models
+namespace PayrollApp.Areas.ReimbursementsData.Models
 {
 	public class Deductibles
 	{

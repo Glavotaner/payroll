@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Payroll.Areas.ThirdParties.Models
+namespace PayrollApp.Areas.ThirdParties.Models
 {
 	public class City
 	{

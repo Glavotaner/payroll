@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Payroll.Areas.PayrollData.Models
+namespace PayrollApp.Areas.PayrollData.Models
 {
 	public class WageParameters
 	{

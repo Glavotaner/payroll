@@ -1,8 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using Payroll.Areas.CalculationData.Models;
+using PayrollApp.Areas.CalculationData.Models;
 
-namespace Payroll.Areas.PayrollData.Models
+namespace PayrollApp.Areas.PayrollData.Models
 {
 	public class Payroll
 	{

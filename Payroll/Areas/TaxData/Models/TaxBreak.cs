@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Payroll.Areas.TaxData.Models
+namespace PayrollApp.Areas.TaxData.Models
 {
 	public class TaxBreak
 	{
