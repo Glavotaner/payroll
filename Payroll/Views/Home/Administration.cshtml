@@ -1,0 +1,11 @@
+@page
+@model PayrollApp.Views.Home.AdministrationModel
+@{
+    ViewData["Title"] = "Administration";
+}
+
+<h1>Administration</h1>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
