@@ -8,9 +8,9 @@ namespace PayrollApp.Areas.PayrollData.Models
 		public int Id { get; set; }
 		public int Year { get; set; }
 		public int Month { get; set; }
-		public virtual Employee Employee { get; set; }
+		public virtual Employee Employee { get; set; } = default!;
 		public int Hours { get; set; }
-		public virtual ICollection<HourTypeAmount> HourTypeAmounts { get; set; }
+		public virtual ICollection<HourTypeAmount> HourTypeAmounts { get; set; } = default!;
 	}
 }
 

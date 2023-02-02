@@ -10,7 +10,7 @@ namespace PayrollApp.Areas.PayrollData.Models
 		public int Id { get; set; }
 
 		[Display(Name = "Hour Type")]
-		public virtual HourType HourType { get; set; }
+		public virtual HourType HourType { get; set; } = default!;
 		public float Amount { get; set; }
 	}
 }

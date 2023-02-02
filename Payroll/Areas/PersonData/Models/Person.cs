@@ -5,13 +5,13 @@ namespace PayrollApp.Areas.PersonData.Models
 {
 	public class Person
 	{
-		public string PID { get; set; }
+		public string PID { get; set; } = default!;
 
 		[Display(Name = "First Name")]
-		public string FirstName { get; set; }
+		public string FirstName { get; set; } = default!;
 
         [Display(Name = "Last Name")]
-        public string LastName { get; set; }
+        public string LastName { get; set; } = default!;
 
         [Display(Name = "Date of Birth")]
 		[DataType(DataType.Date)]

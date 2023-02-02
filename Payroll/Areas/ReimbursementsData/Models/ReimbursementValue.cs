@@ -8,7 +8,7 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
 	{
 		public int Id { get; set; }
 
-		public virtual Reimbursement Reimbursement { get; set; }
+		public virtual Reimbursement Reimbursement { get; set; } = default!;
 		public float Value { get; set; }
 
 		[Display(Name = "Valid From")]

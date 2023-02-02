@@ -12,14 +12,14 @@ namespace PayrollApp.Areas.PersonData.Models
 	{
 		public int Id { get; set; }
 		public bool HRVI { get; set; }
-		public string IBAN { get; set; }
-		public virtual Bank Bank { get; set; }
+		public string IBAN { get; set; } = default!;
+		public virtual Bank Bank { get; set; } = default!;
 
 		[Display(Name = "Protected IBAN")]
-		public string? ProtectedIBAN { get; set; }
+		public string? ProtectedIBAN { get; set; } = default!;
 
 		[Display(Name = "Protected Bank")]
-		public virtual Bank? ProtectedBank { get; set; }
+		public virtual Bank? ProtectedBank { get; set; } = default!;
 
         [Display(Name = "First Employment")]
         public bool FirstEmployment { get; set; }
@@ -28,13 +28,13 @@ namespace PayrollApp.Areas.PersonData.Models
         public bool FirstEmploymentWithCompany { get; set; }
 
 		[Display(Name = "Contributions Model")]
-        public virtual ContributionsModel ContributionsModel { get; set; }
+        public virtual ContributionsModel ContributionsModel { get; set; } = default!;
 
-		public virtual Contract Contract { get; set; }
+		public virtual Contract Contract { get; set; } = default!;
 
         [Display(Name = "Tax Breaks")]
-        public virtual ICollection<TaxBreak> TaxBreaks { get; set; }
-		public virtual ICollection<Dependent> Dependents { get; set; }
+        public virtual ICollection<TaxBreak> TaxBreaks { get; set; } = default!;
+		public virtual ICollection<Dependent> Dependents { get; set; } = default!;
 	}
 }
 

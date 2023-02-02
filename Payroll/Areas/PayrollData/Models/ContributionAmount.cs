@@ -7,7 +7,7 @@ namespace PayrollApp.Areas.PayrollData.Models
 	{
 		public int Id { get; set; }
 
-		public virtual Contribution Contribution { get; set; }
+		public virtual Contribution Contribution { get; set; } = default!;
 		public float Amount { get; set; }
 	}
 }

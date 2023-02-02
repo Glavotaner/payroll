@@ -18,10 +18,10 @@ namespace PayrollApp.Areas.EmploymentData.Models
         public DateTime End { get; set; }
 
 		[Display(Name = "Contract Type")]
-		public virtual ContractType ContractType { get; set; }
+		public virtual ContractType ContractType { get; set; } = default!;
 
-        [Display(Name = "Workplace")]
-        public virtual Workplace Workplace { get; set; }
+		[Display(Name = "Workplace")]
+		public virtual Workplace Workplace { get; set; } = default!;
     }
 }
 

@@ -5,7 +5,7 @@ namespace PayrollApp.Areas.TaxData.Models
 	{
 		public int Id { get; set; }
 
-		public string Name { get; set; }
+		public string Name { get; set; } = default!;
 		public float Rate { get; set; }
 		public bool Retired { get; set; }
 	}

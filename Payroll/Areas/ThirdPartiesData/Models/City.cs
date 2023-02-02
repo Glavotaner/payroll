@@ -7,12 +7,12 @@ namespace PayrollApp.Areas.ThirdParties.Models
 	{
 		public int Id { get; set; }
 
-		public string IBAN { get; set; }
-		public string JOPPD { get; set; }
-		public string Name { get; set; }
+		public string IBAN { get; set; } = default!;
+		public string JOPPD { get; set; } = default!;
+		public string Name { get; set; } = default!;
 
 		[Display(Name = "Postal Code")]
-		public string PostalCode { get; set; }
+		public string PostalCode { get; set; } = default!;
 
 		[Display(Name = "Tax Rate")]
 		public float TaxRate { get; set; }

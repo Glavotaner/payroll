@@ -7,7 +7,7 @@ namespace PayrollApp.Areas.PayrollData.Models
 	{
 		public int Id { get; set; }
 
-		public virtual Reimbursement Reimbursement { get; set; }
+		public virtual Reimbursement Reimbursement { get; set; } = default!;
 		public float Amount { get; set; }
 	}
 }

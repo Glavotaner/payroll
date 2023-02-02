@@ -15,8 +15,8 @@ namespace PayrollApp.Areas.PayrollData.Models
 
 		public int Year { get; set; }
 		public int Month { get; set; }
-		public virtual Labour Labour { get; set; }
-		public virtual ICollection<Contribution> Contributions { get; set; }
+		public virtual Labour Labour { get; set; } = default!;
+		public virtual ICollection<Contribution> Contributions { get; set; } = default!;
 		public float Wage { get; set; }
 
 		[Display(Name = "Gross Salary")]
@@ -32,7 +32,7 @@ namespace PayrollApp.Areas.PayrollData.Models
         public float ContributionsOther { get; set; }
 
         [Display(Name = "Contribution Amounts")]
-        public virtual ICollection<ContributionAmount> ContributionAmounts { get; set; }
+        public virtual ICollection<ContributionAmount> ContributionAmounts { get; set; } = default!;
 
         [Display(Name = "Income")]
         public float Income { get; set; }
@@ -71,7 +71,7 @@ namespace PayrollApp.Areas.PayrollData.Models
         public float ReimbursementsAmount { get; set; }
 
         [Display(Name = "Reimbursement Amounts")]
-        public virtual ICollection<ReimbursementAmount> ReimbursementAmounts { get; set; }
+        public virtual ICollection<ReimbursementAmount> ReimbursementAmounts { get; set; } = default!;
 
         [Display(Name = "Labour Cost")]
         public float LabourCost { get; set; }

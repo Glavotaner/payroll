@@ -7,11 +7,11 @@ namespace PayrollApp.Areas.CalculationData.Models
 	{
 		public int Id { get; set; }
 
-		public string Name { get; set; }
+		public string Name { get; set; } = default!;
 
-		[Display(Name = "Contribution Rates")]
-		public virtual ICollection<ContributionRate> ContributionRates { get; set; }
-		public bool Retired { get; set; }
+        [Display(Name = "Contribution Rates")]
+		public virtual ICollection<ContributionRate> ContributionRates { get; set; } = default!;
+        public bool Retired { get; set; }
 	}
 }
 

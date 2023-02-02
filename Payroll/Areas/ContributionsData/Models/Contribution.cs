@@ -7,9 +7,9 @@ namespace PayrollApp.Areas.CalculationData.Models
 	{
 		public int Id { get; set; }
 
-		public string Name { get; set; }
+		public string Name { get; set; } = default!;
 
-		[Display(Name = "From Pay")]
+        [Display(Name = "From Pay")]
 		public bool FromPay { get; set; }
 
 		public bool Retired { get; set; }

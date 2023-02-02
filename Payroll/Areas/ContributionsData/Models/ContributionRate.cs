@@ -8,9 +8,9 @@ namespace PayrollApp.Areas.CalculationData.Models
 	{
 		public int Id { get; set; }
 
-		public virtual Contribution Contribution { get; set; }
+		public virtual Contribution Contribution { get; set; } = default!;
 
-		public float Rate { get; set; }
+        public float Rate { get; set; }
 
 		[Display(Name = "Valid From")]
 		[DataType(DataType.Date)]
