@@ -372,9 +372,6 @@ namespace PayrollApp.Migrations
                     b.Property<int>("LabourId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Month")
-                        .HasColumnType("int");
-
                     b.Property<float>("NetSalary")
                         .HasColumnType("real");
 
@@ -392,9 +389,6 @@ namespace PayrollApp.Migrations
 
                     b.Property<float>("Wage")
                         .HasColumnType("real");
-
-                    b.Property<int>("Year")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

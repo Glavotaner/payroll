@@ -451,8 +451,6 @@ namespace PayrollApp.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Counter = table.Column<int>(type: "int", nullable: false),
                     AccountingDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Year = table.Column<int>(type: "int", nullable: false),
-                    Month = table.Column<int>(type: "int", nullable: false),
                     LabourId = table.Column<int>(type: "int", nullable: false),
                     Wage = table.Column<float>(type: "real", nullable: false),
                     GrossSalary = table.Column<float>(type: "real", nullable: false),

@@ -12,7 +12,7 @@ using PayrollApp.Data;
 namespace PayrollApp.Migrations
 {
     [DbContext(typeof(PayrollContext))]
-    [Migration("20230201095819_InitialCreate")]
+    [Migration("20230202071929_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -375,9 +375,6 @@ namespace PayrollApp.Migrations
                     b.Property<int>("LabourId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Month")
-                        .HasColumnType("int");
-
                     b.Property<float>("NetSalary")
                         .HasColumnType("real");
 
@@ -395,9 +392,6 @@ namespace PayrollApp.Migrations
 
                     b.Property<float>("Wage")
                         .HasColumnType("real");
-
-                    b.Property<int>("Year")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
