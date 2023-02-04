@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Noć sati",
+    "Retired": false
+  },
+  {
+    "Name": "Nedjelja sati",
+    "Retired": false
+  },
+  {
+    "Name": "Prekovremeni sati",
+    "Retired": false
+  }
+]

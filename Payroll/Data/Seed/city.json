@@ -1,0 +1,3837 @@
+[
+  {
+    "Name": "ANDRIJA\u0160EVCI",
+    "JOPPD": "00019",
+    "IBAN": "HR1910010051700112008",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "ANTUNOVAC",
+    "JOPPD": "00027",
+    "PostalCode": "31216",
+    "IBAN": "HR8410010051700212009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BABINA GREDA",
+    "JOPPD": "00035",
+    "PostalCode": "32276",
+    "IBAN": "HR3110010051700312000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BAKAR",
+    "JOPPD": "00043",
+    "PostalCode": "51222",
+    "IBAN": "HR4210010051700412003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BALE-VALLE",
+    "JOPPD": "00051",
+    "PostalCode": "52211",
+    "IBAN": "HR6410010051700512002",
+    "TaxRate": 1.0
+  },
+  {
+    "Name": "BARBAN",
+    "JOPPD": "00060",
+    "PostalCode": "52207",
+    "IBAN": "HR4810010051700612006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BARILOVI\u0106",
+    "JOPPD": "00078",
+    "PostalCode": "47252",
+    "IBAN": "HR9710010051700712004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BA\u0160KA",
+    "JOPPD": "00086",
+    "PostalCode": "51523",
+    "IBAN": "HR6510010051700812005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BA\u0160KA VODA",
+    "JOPPD": "00094",
+    "PostalCode": "21320",
+    "IBAN": "HR7110010051700912001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BEBRINA",
+    "JOPPD": "00108",
+    "PostalCode": "35254",
+    "IBAN": "HR4410010051701012009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BEDEKOV\u010cINA",
+    "JOPPD": "00116",
+    "PostalCode": "49221",
+    "IBAN": "HR8810010051701112000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BEDENICA",
+    "JOPPD": "05509",
+    "PostalCode": "10381",
+    "IBAN": "HR8710010051755012008",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "BEDNJA",
+    "JOPPD": "00124",
+    "PostalCode": "42253",
+    "IBAN": "HR0210010051701212003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BELI MANASTIR",
+    "JOPPD": "00132",
+    "PostalCode": "31300",
+    "IBAN": "HR2410010051701312002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BELICA",
+    "JOPPD": "00159",
+    "PostalCode": "40319",
+    "IBAN": "HR5710010051701512004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BELI\u0160\u0106E",
+    "JOPPD": "00167",
+    "PostalCode": "31551",
+    "IBAN": "HR2510010051701612005",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "BENKOVAC",
+    "JOPPD": "00175",
+    "PostalCode": "23420",
+    "IBAN": "HR3110010051701712001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BEREK",
+    "JOPPD": "00183",
+    "PostalCode": "43232",
+    "IBAN": "HR5810010051701812007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BERETINEC",
+    "JOPPD": "00191",
+    "PostalCode": "42201",
+    "IBAN": "HR2610010051701912008",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "BIBINJE",
+    "JOPPD": "00205",
+    "PostalCode": "23205",
+    "IBAN": "HR5910010051702012003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BILICE",
+    "JOPPD": "06211",
+    "IBAN": "HR5010010051762112007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BILJE",
+    "JOPPD": "00213",
+    "PostalCode": "31327",
+    "IBAN": "HR8110010051702112002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BIOGRAD NA MORU",
+    "JOPPD": "00221",
+    "PostalCode": "23210",
+    "IBAN": "HR6510010051702212006",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "BISKUPIJA",
+    "JOPPD": "03107",
+    "IBAN": "HR4810010051731012000",
+    "TaxRate": 4.0
+  },
+  {
+    "Name": "BISTRA",
+    "JOPPD": "05479",
+    "PostalCode": "10298",
+    "IBAN": "HR5910010051754712006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BIZOVAC",
+    "JOPPD": "00230",
+    "PostalCode": "31222",
+    "IBAN": "HR1710010051702312004",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "BJELOVAR",
+    "JOPPD": "00248",
+    "PostalCode": "43000",
+    "IBAN": "HR8210010051702412005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BLATO",
+    "JOPPD": "00256",
+    "PostalCode": "20271",
+    "IBAN": "HR8810010051702512001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BOGDANOVCI",
+    "JOPPD": "00264",
+    "IBAN": "HR1810010051702612007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BOL",
+    "JOPPD": "00272",
+    "PostalCode": "21420",
+    "IBAN": "HR8310010051702712008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BOROVO",
+    "JOPPD": "00299",
+    "PostalCode": "32227",
+    "IBAN": "HR9510010051702912000",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "BOSILJEVO",
+    "JOPPD": "00302",
+    "PostalCode": "47251",
+    "IBAN": "HR3610010051703012002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BO\u0160NJACI",
+    "JOPPD": "00329",
+    "PostalCode": "32275",
+    "IBAN": "HR6910010051703212004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BRCKOVLJANI",
+    "JOPPD": "00337",
+    "IBAN": "HR3710010051703312005",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "BRDOVEC",
+    "JOPPD": "00345",
+    "IBAN": "HR4310010051703412001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BRELA",
+    "JOPPD": "00779",
+    "PostalCode": "21322",
+    "IBAN": "HR5410010051707712007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BRESTOVAC",
+    "JOPPD": "00353",
+    "PostalCode": "34322",
+    "IBAN": "HR7010010051703512007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "BREZNICA",
+    "JOPPD": "00361",
+    "IBAN": "HR3810010051703612008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BREZNI\u010cKI HUM",
+    "JOPPD": "01511",
+    "PostalCode": "42225",
+    "IBAN": "HR8310010051715112003",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "BRINJE",
+    "JOPPD": "00370",
+    "PostalCode": "53260",
+    "IBAN": "HR0610010051703712009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BROD MORAVICE",
+    "JOPPD": "00388",
+    "PostalCode": "51312",
+    "IBAN": "HR5010010051703812000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BRODSKI STUPNIK",
+    "JOPPD": "00396",
+    "PostalCode": "35253",
+    "IBAN": "HR6110010051703912003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BRTONIGLA-VERTENEGLIO",
+    "JOPPD": "00400",
+    "PostalCode": "52474",
+    "IBAN": "HR2910010051704012004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BUDIN\u0160\u010cINA",
+    "JOPPD": "00418",
+    "IBAN": "HR9410010051704112005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "BUJE-BUIE",
+    "JOPPD": "00426",
+    "PostalCode": "52460",
+    "IBAN": "HR0310010051704212001",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "BUKOVLJE",
+    "JOPPD": "05673",
+    "PostalCode": "35209",
+    "IBAN": "HR2910010051756712007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "BUZET",
+    "JOPPD": "00434",
+    "PostalCode": "52420",
+    "IBAN": "HR3010010051704312007",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "CERNA",
+    "JOPPD": "00442",
+    "PostalCode": "32272",
+    "IBAN": "HR9510010051704412008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "CERNIK",
+    "JOPPD": "00469",
+    "PostalCode": "35404",
+    "IBAN": "HR1010010051704612000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "CEROVLJE",
+    "JOPPD": "00477",
+    "PostalCode": "52402",
+    "IBAN": "HR2110010051704712003",
+    "TaxRate": 2.0
+  },
+  {
+    "Name": "CESTICA",
+    "JOPPD": "00485",
+    "PostalCode": "42208",
+    "IBAN": "HR4310010051704812002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "CETINGRAD",
+    "JOPPD": "00493",
+    "PostalCode": "47222",
+    "IBAN": "HR2710010051704912006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "CISTA PROVO",
+    "JOPPD": "00507",
+    "PostalCode": "21256",
+    "IBAN": "HR6010010051705012001",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "CIVLJANE",
+    "JOPPD": "00515",
+    "IBAN": "HR8710010051705112007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "CRES",
+    "JOPPD": "00523",
+    "PostalCode": "51557",
+    "IBAN": "HR5510010051705212008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "CRIKVENICA",
+    "JOPPD": "00531",
+    "PostalCode": "51260",
+    "IBAN": "HR2310010051705312009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "CRNAC",
+    "JOPPD": "00540",
+    "PostalCode": "33507",
+    "IBAN": "HR6710010051705412000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u010cABAR",
+    "JOPPD": "00558",
+    "PostalCode": "51306",
+    "IBAN": "HR7810010051705512003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u010cA\u010cINCI",
+    "JOPPD": "00566",
+    "PostalCode": "33514",
+    "IBAN": "HR0310010051705612002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u010cA\u0110AVICA",
+    "JOPPD": "00574",
+    "PostalCode": "33523",
+    "IBAN": "HR8410010051705712006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u010cAGLIN",
+    "JOPPD": "00582",
+    "PostalCode": "34350",
+    "IBAN": "HR3610010051705812004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u010cAKOVEC",
+    "JOPPD": "00604",
+    "PostalCode": "40000",
+    "IBAN": "HR1510010051706012008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u010cAVLE",
+    "JOPPD": "00612",
+    "PostalCode": "51219",
+    "IBAN": "HR8010010051706112009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u010cAZMA",
+    "JOPPD": "00639",
+    "PostalCode": "43240",
+    "IBAN": "HR3810010051706312003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u010cEMINAC",
+    "JOPPD": "00647",
+    "PostalCode": "31325",
+    "IBAN": "HR6010010051706412002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "\u010cEPIN",
+    "JOPPD": "00655",
+    "PostalCode": "31431",
+    "IBAN": "HR4410010051706512006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DARDA",
+    "JOPPD": "00663",
+    "PostalCode": "31326",
+    "IBAN": "HR9310010051706612004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DARUVAR",
+    "JOPPD": "00671",
+    "PostalCode": "43500",
+    "IBAN": "HR6110010051706712005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DAVOR",
+    "JOPPD": "00680",
+    "PostalCode": "35425",
+    "IBAN": "HR6710010051706812001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DEKANOVEC",
+    "JOPPD": "06033",
+    "PostalCode": "40318",
+    "IBAN": "HR9710010051760312005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DELNICE",
+    "JOPPD": "00698",
+    "PostalCode": "51300",
+    "IBAN": "HR9410010051706912007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DESINI\u0106",
+    "JOPPD": "00701",
+    "PostalCode": "49216",
+    "IBAN": "HR8410010051707012000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DE\u017dANOVAC",
+    "JOPPD": "00710",
+    "PostalCode": "43506",
+    "IBAN": "HR9510010051707112003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DICMO",
+    "JOPPD": "00728",
+    "PostalCode": "21232",
+    "IBAN": "HR2010010051707212002",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "DOBRINJ",
+    "JOPPD": "00744",
+    "PostalCode": "51514",
+    "IBAN": "HR5310010051707412004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DOMA\u0160INEC",
+    "JOPPD": "00752",
+    "IBAN": "HR2110010051707512005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DONJA DUBRAVA",
+    "JOPPD": "00787",
+    "PostalCode": "40328",
+    "IBAN": "HR2210010051707812008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DONJA MOTI\u010cINA",
+    "JOPPD": "05762",
+    "PostalCode": "31513",
+    "IBAN": "HR2710010051757612009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DONJA STUBICA",
+    "JOPPD": "00795",
+    "PostalCode": "49240",
+    "IBAN": "HR8710010051707912009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DONJA VO\u0106A",
+    "JOPPD": "00809",
+    "PostalCode": "42245",
+    "IBAN": "HR6610010051708012006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DONJI ANDRIJEVCI",
+    "JOPPD": "00817",
+    "PostalCode": "35214",
+    "IBAN": "HR1810010051708112004",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "DONJI KRALJEVEC",
+    "JOPPD": "00825",
+    "PostalCode": "40320",
+    "IBAN": "HR8310010051708212005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DONJI KUKURUZARI",
+    "JOPPD": "00833",
+    "IBAN": "HR8910010051708312001",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "DONJI LAPAC",
+    "JOPPD": "00841",
+    "PostalCode": "53250",
+    "IBAN": "HR1910010051708412007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DONJI MIHOLJAC",
+    "JOPPD": "00868",
+    "PostalCode": "31540",
+    "IBAN": "HR5210010051708612009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DONJI VIDOVEC",
+    "JOPPD": "00892",
+    "PostalCode": "40327",
+    "IBAN": "HR3210010051708912002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DRAGALI\u0106",
+    "JOPPD": "05681",
+    "PostalCode": "35428",
+    "IBAN": "HR9410010051756812008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DRAGANI\u0106",
+    "JOPPD": "00906",
+    "PostalCode": "47201",
+    "IBAN": "HR4310010051709012005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DRA\u017d",
+    "JOPPD": "00914",
+    "PostalCode": "31305",
+    "IBAN": "HR4910010051709112001",
+    "TaxRate": 2.0
+  },
+  {
+    "Name": "DRENOVCI",
+    "JOPPD": "00922",
+    "PostalCode": "32257",
+    "IBAN": "HR7610010051709212007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DRENJE",
+    "JOPPD": "00949",
+    "PostalCode": "31418",
+    "IBAN": "HR1210010051709412009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DRNI\u0160",
+    "JOPPD": "00957",
+    "PostalCode": "22320",
+    "IBAN": "HR5610010051709512000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "DRNJE",
+    "JOPPD": "00965",
+    "PostalCode": "48322",
+    "IBAN": "HR6710010051709612003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DUBRAVA",
+    "JOPPD": "00973",
+    "PostalCode": "10342",
+    "IBAN": "HR8910010051709712002",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "DUBRAVICA",
+    "JOPPD": "05495",
+    "PostalCode": "10293",
+    "IBAN": "HR7610010051754912005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DUBROVA\u010cKO PRIMORJE",
+    "JOPPD": "05983",
+    "IBAN": "HR2510010051759812005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DUBROVNIK",
+    "JOPPD": "00981",
+    "PostalCode": "20000",
+    "IBAN": "HR7310010051709812006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DUGA RESA",
+    "JOPPD": "00990",
+    "PostalCode": "47250",
+    "IBAN": "HR2510010051709912004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "DUGI RAT",
+    "JOPPD": "01007",
+    "PostalCode": "21315",
+    "IBAN": "HR4710010051710012003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DUGO SELO",
+    "JOPPD": "01015",
+    "PostalCode": "10370",
+    "IBAN": "HR6910010051710112002",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "DUGOPOLJE",
+    "JOPPD": "05851",
+    "PostalCode": "21204",
+    "IBAN": "HR3110010051758512000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "DVOR",
+    "JOPPD": "01023",
+    "PostalCode": "44440",
+    "IBAN": "HR5310010051710212006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u0110AKOVO",
+    "JOPPD": "01031",
+    "PostalCode": "31400",
+    "IBAN": "HR0510010051710312004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "\u0110ELEKOVEC",
+    "JOPPD": "01040",
+    "PostalCode": "48316",
+    "IBAN": "HR7010010051710412005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0110ULOVAC",
+    "JOPPD": "01058",
+    "PostalCode": "43532",
+    "IBAN": "HR7610010051710512001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0110UR\u0110ENOVAC",
+    "JOPPD": "01066",
+    "PostalCode": "31511",
+    "IBAN": "HR0610010051710612007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "\u0110UR\u0110EVAC",
+    "JOPPD": "01074",
+    "PostalCode": "48350",
+    "IBAN": "HR7110010051710712008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0110URMANEC",
+    "JOPPD": "01082",
+    "PostalCode": "49225",
+    "IBAN": "HR3910010051710812009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ERDUT",
+    "JOPPD": "01104",
+    "PostalCode": "31206",
+    "IBAN": "HR2410010051711012002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "ERNESTINOVO",
+    "JOPPD": "01112",
+    "PostalCode": "31215",
+    "IBAN": "HR0810010051711112006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "ERVENIK",
+    "JOPPD": "01139",
+    "IBAN": "HR2510010051711312005",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "FARKA\u0160EVAC",
+    "JOPPD": "01147",
+    "PostalCode": "10344",
+    "IBAN": "HR3110010051711412001",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "FA\u017dANA-FASANA",
+    "JOPPD": "06190",
+    "PostalCode": "52212",
+    "IBAN": "HR8710010051761912006",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "FERDINANDOVAC",
+    "JOPPD": "01155",
+    "PostalCode": "48356",
+    "IBAN": "HR5810010051711512007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "FERI\u010cANCI",
+    "JOPPD": "01163",
+    "PostalCode": "31512",
+    "IBAN": "HR2610010051711612008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "FUNTANA-FONTANE",
+    "JOPPD": "06297",
+    "PostalCode": "52452",
+    "IBAN": "HR6410010051762912005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "FU\u017dINE",
+    "JOPPD": "01171",
+    "PostalCode": "51322",
+    "IBAN": "HR9110010051711712009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "GALOVAC",
+    "JOPPD": "05711",
+    "IBAN": "HR9010010051757112004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GAR\u010cIN",
+    "JOPPD": "01180",
+    "PostalCode": "35212",
+    "IBAN": "HR3810010051711812000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "GARE\u0160NICA",
+    "JOPPD": "01198",
+    "PostalCode": "43280",
+    "IBAN": "HR4910010051711912003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "GENERALSKI STOL",
+    "JOPPD": "01201",
+    "PostalCode": "47262",
+    "IBAN": "HR1710010051712012004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GLINA",
+    "JOPPD": "01210",
+    "PostalCode": "44400",
+    "IBAN": "HR8210010051712112005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GOLA",
+    "JOPPD": "01228",
+    "PostalCode": "48331",
+    "IBAN": "HR8810010051712212001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GORI\u010cAN",
+    "JOPPD": "01236",
+    "PostalCode": "40324",
+    "IBAN": "HR1810010051712312007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GORJANI",
+    "JOPPD": "01244",
+    "PostalCode": "31422",
+    "IBAN": "HR8310010051712412008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GORNJA RIJEKA",
+    "JOPPD": "06181",
+    "PostalCode": "48268",
+    "IBAN": "HR0610010051761812002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GORNJA STUBICA",
+    "JOPPD": "01252",
+    "PostalCode": "49245",
+    "IBAN": "HR5110010051712512009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GORNJA VRBA",
+    "JOPPD": "05690",
+    "IBAN": "HR6210010051756912009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GORNJI BOGI\u0106EVCI",
+    "JOPPD": "01279",
+    "PostalCode": "35429",
+    "IBAN": "HR0910010051712712003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "GORNJI KNEGINEC",
+    "JOPPD": "01295",
+    "IBAN": "HR1510010051712912006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "GORNJI MIHALJEVEC",
+    "JOPPD": "06041",
+    "IBAN": "HR0610010051760412001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GOSPI\u0106",
+    "JOPPD": "01309",
+    "PostalCode": "53000",
+    "IBAN": "HR4810010051713012001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "GRA\u010cAC",
+    "JOPPD": "01317",
+    "PostalCode": "23440",
+    "IBAN": "HR7510010051713112007",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "GRA\u010cI\u0160\u0106E",
+    "JOPPD": "01325",
+    "PostalCode": "52403",
+    "IBAN": "HR4310010051713212008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "GRADAC",
+    "JOPPD": "01341",
+    "PostalCode": "21330",
+    "IBAN": "HR5510010051713412000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GRADEC",
+    "JOPPD": "01350",
+    "PostalCode": "10345",
+    "IBAN": "HR6610010051713512003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "GRADINA",
+    "JOPPD": "01368",
+    "PostalCode": "33411",
+    "IBAN": "HR8810010051713612002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GRADI\u0160TE",
+    "JOPPD": "01376",
+    "PostalCode": "32273",
+    "IBAN": "HR7210010051713712006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GRO\u017dNJAN-GRISIGNANA",
+    "JOPPD": "01384",
+    "PostalCode": "52429",
+    "IBAN": "HR2410010051713812004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GRUBI\u0160NO POLJE",
+    "JOPPD": "01392",
+    "PostalCode": "43290",
+    "IBAN": "HR8910010051713912005",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "GUNDINCI",
+    "JOPPD": "01406",
+    "PostalCode": "35222",
+    "IBAN": "HR0310010051714012008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "GUNJA",
+    "JOPPD": "01414",
+    "PostalCode": "32259",
+    "IBAN": "HR6810010051714112009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "GVOZD",
+    "JOPPD": "05100",
+    "IBAN": "HR3410010051751012003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "HERCEGOVAC",
+    "JOPPD": "01449",
+    "PostalCode": "43284",
+    "IBAN": "HR4810010051714412002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "HLEBINE",
+    "JOPPD": "01457",
+    "PostalCode": "48323",
+    "IBAN": "HR3210010051714512006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "HRA\u0160\u0106INA",
+    "JOPPD": "01465",
+    "IBAN": "HR8110010051714612004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "HRVACE",
+    "JOPPD": "01481",
+    "PostalCode": "21233",
+    "IBAN": "HR5510010051714812001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "HRVATSKA DUBICA",
+    "JOPPD": "01490",
+    "PostalCode": "44450",
+    "IBAN": "HR8210010051714912007",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "HRVATSKA KOSTAJNICA",
+    "JOPPD": "01503",
+    "PostalCode": "44430",
+    "IBAN": "HR7210010051715012000",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "HUM NA SUTLI",
+    "JOPPD": "01520",
+    "PostalCode": "49231",
+    "IBAN": "HR0810010051715212002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "HVAR",
+    "JOPPD": "01538",
+    "PostalCode": "21450",
+    "IBAN": "HR8910010051715312006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ILOK",
+    "JOPPD": "01546",
+    "PostalCode": "32236",
+    "IBAN": "HR4110010051715412004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "IMOTSKI",
+    "JOPPD": "01554",
+    "PostalCode": "21260",
+    "IBAN": "HR0910010051715512005",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "IVANEC",
+    "JOPPD": "01562",
+    "PostalCode": "42240",
+    "IBAN": "HR1510010051715612001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "IVANI\u0106-GRAD",
+    "JOPPD": "01589",
+    "IBAN": "HR1010010051715812008",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "IVANKOVO",
+    "JOPPD": "01597",
+    "PostalCode": "32281",
+    "IBAN": "HR7510010051715912009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "IVANSKA",
+    "JOPPD": "01619",
+    "PostalCode": "43231",
+    "IBAN": "HR0610010051716112004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JAGODNJAK",
+    "JOPPD": "06092",
+    "PostalCode": "31324",
+    "IBAN": "HR2410010051760912003",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "JAKOVLJE",
+    "JOPPD": "01635",
+    "PostalCode": "10297",
+    "IBAN": "HR7710010051716312001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "JAK\u0160I\u0106",
+    "JOPPD": "01643",
+    "PostalCode": "34308",
+    "IBAN": "HR0710010051716412007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "JAL\u017dABET",
+    "JOPPD": "01651",
+    "PostalCode": "42203",
+    "IBAN": "HR7210010051716512008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JANJINA",
+    "JOPPD": "05991",
+    "PostalCode": "20246",
+    "IBAN": "HR3110010051759912001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JARMINA",
+    "JOPPD": "01660",
+    "PostalCode": "32280",
+    "IBAN": "HR4010010051716612009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JASENICE",
+    "JOPPD": "01678",
+    "PostalCode": "23243",
+    "IBAN": "HR8410010051716712000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JASENOVAC",
+    "JOPPD": "01686",
+    "PostalCode": "44324",
+    "IBAN": "HR9510010051716812003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JASTREBARSKO",
+    "JOPPD": "01694",
+    "PostalCode": "10450",
+    "IBAN": "HR2010010051716912002",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "JELENJE",
+    "JOPPD": "01708",
+    "IBAN": "HR3110010051717012005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JELSA",
+    "JOPPD": "01716",
+    "PostalCode": "21465",
+    "IBAN": "HR3710010051717112001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "JESENJE",
+    "JOPPD": "05525",
+    "IBAN": "HR0210010051755212000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "JOSIPDOL",
+    "JOPPD": "01724",
+    "PostalCode": "47303",
+    "IBAN": "HR6410010051717212007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KALI",
+    "JOPPD": "01732",
+    "PostalCode": "23272",
+    "IBAN": "HR3210010051717312008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KALINOVAC",
+    "JOPPD": "05592",
+    "PostalCode": "48361",
+    "IBAN": "HR6910010051755912007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KALNIK",
+    "JOPPD": "05606",
+    "IBAN": "HR5910010051756012000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KAMANJE",
+    "JOPPD": "06238",
+    "PostalCode": "47282",
+    "IBAN": "HR8310010051762312009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KANFANAR",
+    "JOPPD": "01759",
+    "PostalCode": "52352",
+    "IBAN": "HR4410010051717512000",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "KAPELA",
+    "JOPPD": "01767",
+    "PostalCode": "43203",
+    "IBAN": "HR5510010051717612003",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "KAPTOL",
+    "JOPPD": "01775",
+    "PostalCode": "34334",
+    "IBAN": "HR7710010051717712002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KARLOBAG",
+    "JOPPD": "01783",
+    "PostalCode": "53288",
+    "IBAN": "HR6110010051717812006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KARLOVAC",
+    "JOPPD": "01791",
+    "PostalCode": "47000",
+    "IBAN": "HR1310010051717912004",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "KAROJBA",
+    "JOPPD": "05967",
+    "IBAN": "HR0810010051759612006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KASTAV",
+    "JOPPD": "01805",
+    "PostalCode": "51215",
+    "IBAN": "HR2410010051718012007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KA\u0160TELA",
+    "JOPPD": "01813",
+    "IBAN": "HR8910010051718112008",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "KA\u0160TELIR-LABINCI-CASTELLIERE-S.DOMENICA",
+    "JOPPD": "05975",
+    "PostalCode": "52464",
+    "IBAN": "HR5710010051759712004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KIJEVO",
+    "JOPPD": "01830",
+    "PostalCode": "22310",
+    "IBAN": "HR0410010051718312000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KISTANJE",
+    "JOPPD": "01848",
+    "PostalCode": "22305",
+    "IBAN": "HR1510010051718412003",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "KLAKAR",
+    "JOPPD": "01856",
+    "IBAN": "HR3710010051718512002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KLANA",
+    "JOPPD": "01864",
+    "PostalCode": "51217",
+    "IBAN": "HR2110010051718612006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KLANJEC",
+    "JOPPD": "01872",
+    "PostalCode": "49290",
+    "IBAN": "HR7010010051718712004",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "KLENOVNIK",
+    "JOPPD": "01899",
+    "PostalCode": "42244",
+    "IBAN": "HR4410010051718912001",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "KLIN\u010cA SELA",
+    "JOPPD": "01902",
+    "PostalCode": "10452",
+    "IBAN": "HR1710010051719012009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KLIS",
+    "JOPPD": "01929",
+    "PostalCode": "21231",
+    "IBAN": "HR7210010051719212003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KLO\u0160TAR IVANI\u0106",
+    "JOPPD": "01937",
+    "PostalCode": "10312",
+    "IBAN": "HR9410010051719312002",
+    "TaxRate": 2.0
+  },
+  {
+    "Name": "KLO\u0160TAR PODRAVSKI",
+    "JOPPD": "01945",
+    "PostalCode": "48362",
+    "IBAN": "HR7810010051719412006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KNE\u017dEVI VINOGRADI",
+    "JOPPD": "01953",
+    "PostalCode": "31309",
+    "IBAN": "HR3010010051719512004",
+    "TaxRate": 4.0
+  },
+  {
+    "Name": "KNIN",
+    "JOPPD": "01961",
+    "PostalCode": "22300",
+    "IBAN": "HR9510010051719612005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KOLAN",
+    "JOPPD": "06220",
+    "PostalCode": "23251",
+    "IBAN": "HR1810010051762212008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KOMI\u017dA",
+    "JOPPD": "01970",
+    "PostalCode": "21485",
+    "IBAN": "HR0410010051719712001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KONAVLE",
+    "JOPPD": "01988",
+    "IBAN": "HR3110010051719812007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KON\u010cANICA",
+    "JOPPD": "01996",
+    "PostalCode": "43505",
+    "IBAN": "HR9610010051719912008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KONJ\u0160\u010cINA",
+    "JOPPD": "02003",
+    "PostalCode": "49282",
+    "IBAN": "HR0510010051720012004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KOPRIVNICA",
+    "JOPPD": "02011",
+    "PostalCode": "48000",
+    "IBAN": "HR7010010051720112005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KOPRIVNI\u010cKI BREGI",
+    "JOPPD": "02020",
+    "IBAN": "HR7610010051720212001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KOPRIVNI\u010cKI IVANEC",
+    "JOPPD": "02038",
+    "PostalCode": "48314",
+    "IBAN": "HR0610010051720312007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KOR\u010cULA",
+    "JOPPD": "02046",
+    "PostalCode": "20260",
+    "IBAN": "HR7110010051720412008",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "KOSTRENA",
+    "JOPPD": "05380",
+    "PostalCode": "51221",
+    "IBAN": "HR1810010051753812002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KO\u0160KA",
+    "JOPPD": "02054",
+    "PostalCode": "31224",
+    "IBAN": "HR3910010051720512009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KOTORIBA",
+    "JOPPD": "02062",
+    "PostalCode": "40329",
+    "IBAN": "HR8310010051720612000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KRALJEVEC NA SUTLI",
+    "JOPPD": "02089",
+    "PostalCode": "49294",
+    "IBAN": "HR1910010051720812002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KRALJEVICA",
+    "JOPPD": "02097",
+    "PostalCode": "51262",
+    "IBAN": "HR0310010051720912006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KRAPINA",
+    "JOPPD": "02119",
+    "PostalCode": "49000",
+    "IBAN": "HR6310010051721112007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KRAPINSKE TOPLICE",
+    "JOPPD": "02127",
+    "PostalCode": "49217",
+    "IBAN": "HR3110010051721212008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KRA\u0160I\u0106",
+    "JOPPD": "05339",
+    "PostalCode": "10454",
+    "IBAN": "HR0510010051753312007",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "KRAVARSKO",
+    "JOPPD": "05452",
+    "PostalCode": "10413",
+    "IBAN": "HR5310010051754512003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "KRI\u017d",
+    "JOPPD": "02135",
+    "PostalCode": "10314",
+    "IBAN": "HR9610010051721312009",
+    "TaxRate": 2.0
+  },
+  {
+    "Name": "KRI\u017dEVCI",
+    "JOPPD": "02143",
+    "PostalCode": "48260",
+    "IBAN": "HR4310010051721412000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KRK",
+    "JOPPD": "02151",
+    "PostalCode": "51500",
+    "IBAN": "HR5410010051721512003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KRNJAK",
+    "JOPPD": "02160",
+    "PostalCode": "47242",
+    "IBAN": "HR7610010051721612002",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "KR\u0160AN",
+    "JOPPD": "02178",
+    "PostalCode": "52232",
+    "IBAN": "HR6010010051721712006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KUKLJICA",
+    "JOPPD": "05720",
+    "PostalCode": "23271",
+    "IBAN": "HR5810010051757212005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KULA NORINSKA",
+    "JOPPD": "02194",
+    "PostalCode": "20341",
+    "IBAN": "HR7710010051721912005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "KUMROVEC",
+    "JOPPD": "05533",
+    "PostalCode": "49295",
+    "IBAN": "HR1310010051755312003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "KUTINA",
+    "JOPPD": "02208",
+    "PostalCode": "44320",
+    "IBAN": "HR8810010051722012008",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "KUTJEVO",
+    "JOPPD": "02216",
+    "PostalCode": "34340",
+    "IBAN": "HR5610010051722112009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LABIN",
+    "JOPPD": "02224",
+    "PostalCode": "52220",
+    "IBAN": "HR0310010051722212000",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "LANI\u0160\u0106E",
+    "JOPPD": "02232",
+    "IBAN": "HR1410010051722312003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "LASINJA",
+    "JOPPD": "02259",
+    "PostalCode": "47206",
+    "IBAN": "HR2010010051722512006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "LASTOVO",
+    "JOPPD": "02267",
+    "PostalCode": "20290",
+    "IBAN": "HR6910010051722612004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "LE\u0106EVICA",
+    "JOPPD": "05860",
+    "IBAN": "HR4210010051758612003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LEGRAD",
+    "JOPPD": "02275",
+    "PostalCode": "48317",
+    "IBAN": "HR3710010051722712005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LEKENIK",
+    "JOPPD": "02283",
+    "PostalCode": "44272",
+    "IBAN": "HR4310010051722812001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LEPOGLAVA",
+    "JOPPD": "02291",
+    "PostalCode": "42250",
+    "IBAN": "HR7010010051722912007",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "LEVANJSKA VARO\u0160",
+    "JOPPD": "02305",
+    "PostalCode": "31416",
+    "IBAN": "HR6010010051723012000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LIPIK",
+    "JOPPD": "02313",
+    "PostalCode": "34551",
+    "IBAN": "HR7110010051723112003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "LIPOVLJANI",
+    "JOPPD": "02321",
+    "PostalCode": "44322",
+    "IBAN": "HR9310010051723212002",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "LI\u0160ANE OSTROVI\u010cKE",
+    "JOPPD": "02348",
+    "IBAN": "HR2910010051723412004",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "LI\u017dNJAN-LISIGNANO",
+    "JOPPD": "02356",
+    "PostalCode": "52204",
+    "IBAN": "HR9410010051723512005",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "LOBOR",
+    "JOPPD": "02364",
+    "PostalCode": "49253",
+    "IBAN": "HR0310010051723612001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LOKVE",
+    "JOPPD": "02372",
+    "PostalCode": "51316",
+    "IBAN": "HR3010010051723712007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LOKVI\u010cI\u0106I",
+    "JOPPD": "05878",
+    "IBAN": "HR6410010051758712002",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "LOPAR",
+    "JOPPD": "06246",
+    "PostalCode": "51281",
+    "IBAN": "HR3010010051762412000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LOVAS",
+    "JOPPD": "02399",
+    "PostalCode": "32237",
+    "IBAN": "HR6310010051723912009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "LOVINAC",
+    "JOPPD": "02402",
+    "PostalCode": "53244",
+    "IBAN": "HR4210010051724012006",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "LOVRAN",
+    "JOPPD": "02429",
+    "PostalCode": "51415",
+    "IBAN": "HR5910010051724212005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LOVRE\u0106",
+    "JOPPD": "02437",
+    "PostalCode": "21257",
+    "IBAN": "HR6510010051724312001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "LUDBREG",
+    "JOPPD": "02445",
+    "PostalCode": "42230",
+    "IBAN": "HR9210010051724412007",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "LUKA",
+    "JOPPD": "05487",
+    "PostalCode": "10296",
+    "IBAN": "HR1110010051754812004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "LUKA\u010c",
+    "JOPPD": "02453",
+    "PostalCode": "33406",
+    "IBAN": "HR6010010051724512008",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "LUMBARDA",
+    "JOPPD": "06009",
+    "PostalCode": "20263",
+    "IBAN": "HR9610010051760012002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "LUPOGLAV",
+    "JOPPD": "02461",
+    "PostalCode": "52426",
+    "IBAN": "HR2810010051724612009",
+    "TaxRate": 1.0
+  },
+  {
+    "Name": "LJUBE\u0160\u0106ICA",
+    "JOPPD": "02470",
+    "PostalCode": "42222",
+    "IBAN": "HR7210010051724712000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "MA\u010cE",
+    "JOPPD": "02488",
+    "PostalCode": "49251",
+    "IBAN": "HR8310010051724812003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MAGADENOVAC",
+    "JOPPD": "05789",
+    "PostalCode": "31542",
+    "IBAN": "HR8210010051757812003",
+    "TaxRate": 2.0
+  },
+  {
+    "Name": "MAJUR",
+    "JOPPD": "05550",
+    "IBAN": "HR1910010051755512006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "MAKARSKA",
+    "JOPPD": "02496",
+    "PostalCode": "21300",
+    "IBAN": "HR0810010051724912002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "MALA SUBOTICA",
+    "JOPPD": "02500",
+    "PostalCode": "40321",
+    "IBAN": "HR1910010051725012005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MALI BUKOVEC",
+    "JOPPD": "02518",
+    "PostalCode": "42231",
+    "IBAN": "HR2510010051725112001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "MALI LO\u0160INJ",
+    "JOPPD": "02526",
+    "PostalCode": "51550",
+    "IBAN": "HR5210010051725212007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MALINSKA-DUBA\u0160NICA",
+    "JOPPD": "02534",
+    "IBAN": "HR2010010051725312008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MAR\u010cANA",
+    "JOPPD": "02542",
+    "PostalCode": "52206",
+    "IBAN": "HR8510010051725412009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "MARIJA BISTRICA",
+    "JOPPD": "02569",
+    "PostalCode": "49246",
+    "IBAN": "HR4310010051725612003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MARIJA GORICA",
+    "JOPPD": "05398",
+    "PostalCode": "10299",
+    "IBAN": "HR0210010051753912006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "MARIJANCI",
+    "JOPPD": "02577",
+    "PostalCode": "31555",
+    "IBAN": "HR6510010051725712002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "MARINA",
+    "JOPPD": "02585",
+    "PostalCode": "21222",
+    "IBAN": "HR4910010051725812006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MARKU\u0160ICA",
+    "JOPPD": "06106",
+    "PostalCode": "32213",
+    "IBAN": "HR8910010051761012004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "MARTIJANEC",
+    "JOPPD": "00850",
+    "PostalCode": "42232",
+    "IBAN": "HR8410010051708512008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "MARTINSKA VES",
+    "JOPPD": "02593",
+    "PostalCode": "44201",
+    "IBAN": "HR9810010051725912004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MARU\u0160EVEC",
+    "JOPPD": "02607",
+    "PostalCode": "42243",
+    "IBAN": "HR1210010051726012007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "MATULJI",
+    "JOPPD": "02615",
+    "PostalCode": "51211",
+    "IBAN": "HR7710010051726112008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "MEDULIN",
+    "JOPPD": "02631",
+    "PostalCode": "52203",
+    "IBAN": "HR8910010051726312000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "METKOVI\u0106",
+    "JOPPD": "02640",
+    "PostalCode": "20350",
+    "IBAN": "HR0310010051726412003",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "MIHOVLJAN",
+    "JOPPD": "02658",
+    "PostalCode": "49252",
+    "IBAN": "HR2510010051726512002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MIKLEU\u0160",
+    "JOPPD": "02666",
+    "PostalCode": "33517",
+    "IBAN": "HR0910010051726612006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MILNA",
+    "JOPPD": "02674",
+    "PostalCode": "21405",
+    "IBAN": "HR5810010051726712004",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "MLJET",
+    "JOPPD": "02682",
+    "IBAN": "HR2610010051726812005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "MOLVE",
+    "JOPPD": "02704",
+    "PostalCode": "48327",
+    "IBAN": "HR0510010051727012009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MO\u0160\u0106ENI\u010cKA DRAGA",
+    "JOPPD": "02739",
+    "PostalCode": "51417",
+    "IBAN": "HR8210010051727312002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MOTOVUN-MONTONA",
+    "JOPPD": "02747",
+    "PostalCode": "52424",
+    "IBAN": "HR6610010051727412006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MRKOPALJ",
+    "JOPPD": "02755",
+    "PostalCode": "51315",
+    "IBAN": "HR1810010051727512004",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "MU\u0106",
+    "JOPPD": "00876",
+    "IBAN": "HR9610010051708712000",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "MURSKO SREDI\u0160\u0106E",
+    "JOPPD": "02763",
+    "PostalCode": "40315",
+    "IBAN": "HR8310010051727612005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "MURTER-KORNATI",
+    "JOPPD": "06173",
+    "PostalCode": "22243",
+    "IBAN": "HR8110010051761712003",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "NA\u0160ICE",
+    "JOPPD": "02780",
+    "PostalCode": "31500",
+    "IBAN": "HR1910010051727812007",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "NEDELI\u0160\u0106E",
+    "JOPPD": "02798",
+    "PostalCode": "40305",
+    "IBAN": "HR8410010051727912008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NEGOSLAVCI",
+    "JOPPD": "06122",
+    "PostalCode": "32239",
+    "IBAN": "HR6310010051761212001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "NERE\u017dI\u0160\u0106A",
+    "JOPPD": "02801",
+    "PostalCode": "21423",
+    "IBAN": "HR2010010051728012003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NETRETI\u0106",
+    "JOPPD": "02810",
+    "PostalCode": "47271",
+    "IBAN": "HR4210010051728112002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NIJEMCI",
+    "JOPPD": "02950",
+    "PostalCode": "32245",
+    "IBAN": "HR3110010051729512007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NIN",
+    "JOPPD": "02828",
+    "PostalCode": "23232",
+    "IBAN": "HR2610010051728212006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVA BUKOVICA",
+    "JOPPD": "02836",
+    "PostalCode": "33518",
+    "IBAN": "HR7510010051728312004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVA GRADI\u0160KA",
+    "JOPPD": "02844",
+    "PostalCode": "35400",
+    "IBAN": "HR4310010051728412005",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "NOVA KAPELA",
+    "JOPPD": "02852",
+    "PostalCode": "35410",
+    "IBAN": "HR4910010051728512001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "NOVA RA\u010cA",
+    "JOPPD": "02879",
+    "PostalCode": "43272",
+    "IBAN": "HR4410010051728712008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVALJA",
+    "JOPPD": "02887",
+    "PostalCode": "53291",
+    "IBAN": "HR1210010051728812009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVI GOLUBOVEC",
+    "JOPPD": "05541",
+    "PostalCode": "49255",
+    "IBAN": "HR3510010051755412002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVI MAROF",
+    "JOPPD": "02895",
+    "PostalCode": "42220",
+    "IBAN": "HR5610010051728912000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "NOVI VINODOLSKI",
+    "JOPPD": "02909",
+    "PostalCode": "51250",
+    "IBAN": "HR9410010051729012002",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "NOVIGRAD",
+    "JOPPD": "05371",
+    "PostalCode": "23312",
+    "IBAN": "HR9310010051753712003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVIGRAD PODRAVSKI",
+    "JOPPD": "02925",
+    "PostalCode": "48325",
+    "IBAN": "HR3010010051729212004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVIGRAD-CITTANOVA",
+    "JOPPD": "02917",
+    "PostalCode": "52466",
+    "IBAN": "HR7810010051729112006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVO VIRJE",
+    "JOPPD": "05614",
+    "PostalCode": "48355",
+    "IBAN": "HR7010010051756112003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "NOVSKA",
+    "JOPPD": "02933",
+    "PostalCode": "44330",
+    "IBAN": "HR9510010051729312005",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "NU\u0160TAR",
+    "JOPPD": "02941",
+    "PostalCode": "32221",
+    "IBAN": "HR0410010051729412001",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "OBROVAC",
+    "JOPPD": "02968",
+    "PostalCode": "23450",
+    "IBAN": "HR9610010051729612008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OGULIN",
+    "JOPPD": "02976",
+    "PostalCode": "47300",
+    "IBAN": "HR6410010051729712009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "OKRUG",
+    "JOPPD": "05886",
+    "IBAN": "HR4810010051758812006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OKU\u010cANI",
+    "JOPPD": "02992",
+    "PostalCode": "35430",
+    "IBAN": "HR2210010051729912003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "OMI\u0160",
+    "JOPPD": "03000",
+    "PostalCode": "21310",
+    "IBAN": "HR7610010051730012008",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "OMI\u0160ALJ",
+    "JOPPD": "03018",
+    "PostalCode": "51513",
+    "IBAN": "HR4410010051730112009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OPATIJA",
+    "JOPPD": "03026",
+    "PostalCode": "51410",
+    "IBAN": "HR8810010051730212000",
+    "TaxRate": 7.5
+  },
+  {
+    "Name": "OPRISAVCI",
+    "JOPPD": "03034",
+    "PostalCode": "35213",
+    "IBAN": "HR0210010051730312003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OPRTALJ-PORTOLE",
+    "JOPPD": "03042",
+    "PostalCode": "52428",
+    "IBAN": "HR2410010051730412002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OPUZEN",
+    "JOPPD": "03069",
+    "PostalCode": "20355",
+    "IBAN": "HR5710010051730612004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "ORAHOVICA",
+    "JOPPD": "03077",
+    "PostalCode": "33515",
+    "IBAN": "HR2510010051730712005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OREBI\u0106",
+    "JOPPD": "03085",
+    "PostalCode": "20250",
+    "IBAN": "HR3110010051730812001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OREHOVICA",
+    "JOPPD": "06050",
+    "PostalCode": "40322",
+    "IBAN": "HR3310010051760512007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ORIOVAC",
+    "JOPPD": "03093",
+    "PostalCode": "35250",
+    "IBAN": "HR5810010051730912007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ORLE",
+    "JOPPD": "05428",
+    "PostalCode": "10411",
+    "IBAN": "HR3010010051754212008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "OROSLAVJE",
+    "JOPPD": "03115",
+    "PostalCode": "49243",
+    "IBAN": "HR5910010051731112003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "OSIJEK",
+    "JOPPD": "03123",
+    "PostalCode": "31000",
+    "IBAN": "HR8110010051731212002",
+    "TaxRate": 13.0
+  },
+  {
+    "Name": "OTO\u010cAC",
+    "JOPPD": "03131",
+    "PostalCode": "53220",
+    "IBAN": "HR6510010051731312006",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "OTOK (SINJ)",
+    "JOPPD": "03140",
+    "PostalCode": "21238",
+    "IBAN": "HR1710010051731412004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "OTOK (VINKOVCI)",
+    "JOPPD": "05355",
+    "PostalCode": "32252",
+    "IBAN": "HR3810010051753512009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "OZALJ",
+    "JOPPD": "03158",
+    "PostalCode": "47280",
+    "IBAN": "HR8210010051731512005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "PAG",
+    "JOPPD": "03166",
+    "PostalCode": "23250",
+    "IBAN": "HR8810010051731612001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PAKO\u0160TANE",
+    "JOPPD": "03174",
+    "PostalCode": "23211",
+    "IBAN": "HR1810010051731712007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PAKRAC",
+    "JOPPD": "03182",
+    "PostalCode": "34550",
+    "IBAN": "HR8310010051731812008",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "PA\u0160MAN",
+    "JOPPD": "03204",
+    "PostalCode": "23262",
+    "IBAN": "HR3010010051732012006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PAZIN",
+    "JOPPD": "03212",
+    "PostalCode": "52000",
+    "IBAN": "HR7910010051732112004",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "PERU\u0160I\u0106",
+    "JOPPD": "03239",
+    "PostalCode": "53202",
+    "IBAN": "HR5310010051732312001",
+    "TaxRate": 4.0
+  },
+  {
+    "Name": "PETERANEC",
+    "JOPPD": "03247",
+    "PostalCode": "48321",
+    "IBAN": "HR8010010051732412007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PETLOVAC",
+    "JOPPD": "03255",
+    "PostalCode": "31321",
+    "IBAN": "HR4810010051732512008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PETRIJANEC",
+    "JOPPD": "03263",
+    "PostalCode": "42206",
+    "IBAN": "HR1610010051732612009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PETRIJEVCI",
+    "JOPPD": "03271",
+    "PostalCode": "31208",
+    "IBAN": "HR6010010051732712000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PETRINJA",
+    "JOPPD": "03280",
+    "PostalCode": "44250",
+    "IBAN": "HR7110010051732812003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PETROVSKO",
+    "JOPPD": "03298",
+    "PostalCode": "49234",
+    "IBAN": "HR9310010051732912002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PI\u0106AN",
+    "JOPPD": "03301",
+    "PostalCode": "52332",
+    "IBAN": "HR0710010051733012005",
+    "TaxRate": 2.0
+  },
+  {
+    "Name": "PIROVAC",
+    "JOPPD": "05819",
+    "PostalCode": "22213",
+    "IBAN": "HR2410010051758112001",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "PISAROVINA",
+    "JOPPD": "03310",
+    "PostalCode": "10451",
+    "IBAN": "HR1310010051733112001",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "PITOMA\u010cA",
+    "JOPPD": "03328",
+    "PostalCode": "33405",
+    "IBAN": "HR4010010051733212007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PLA\u0160KI",
+    "JOPPD": "03336",
+    "PostalCode": "47304",
+    "IBAN": "HR0810010051733312008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PLETERNICA",
+    "JOPPD": "03344",
+    "PostalCode": "34310",
+    "IBAN": "HR7310010051733412009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PLITVI\u010cKA JEZERA",
+    "JOPPD": "04553",
+    "PostalCode": "53231",
+    "IBAN": "HR5010010051745512009",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "PLO\u010cE",
+    "JOPPD": "03352",
+    "PostalCode": "20340",
+    "IBAN": "HR2010010051733512000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "PODBABLJE",
+    "JOPPD": "03379",
+    "IBAN": "HR5310010051733712002",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "PODCRKAVLJE",
+    "JOPPD": "03387",
+    "PostalCode": "35201",
+    "IBAN": "HR3710010051733812006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PODGORA",
+    "JOPPD": "03395",
+    "PostalCode": "21327",
+    "IBAN": "HR8610010051733912004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "PODGORA\u010c",
+    "JOPPD": "03409",
+    "PostalCode": "31433",
+    "IBAN": "HR9710010051734012007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PODRAVSKA MOSLAVINA",
+    "JOPPD": "02712",
+    "PostalCode": "31530",
+    "IBAN": "HR4910010051727112000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PODRAVSKE SESVETE",
+    "JOPPD": "06165",
+    "PostalCode": "48363",
+    "IBAN": "HR7010010051761612000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PODSTRANA",
+    "JOPPD": "03417",
+    "PostalCode": "21312",
+    "IBAN": "HR6510010051734112008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "PODTUREN",
+    "JOPPD": "03425",
+    "PostalCode": "40317",
+    "IBAN": "HR3310010051734212009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "POJEZERJE",
+    "JOPPD": "03433",
+    "IBAN": "HR7710010051734312000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "POKUPSKO",
+    "JOPPD": "05444",
+    "PostalCode": "10414",
+    "IBAN": "HR4210010051754412000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "POLA\u010cA",
+    "JOPPD": "03441",
+    "PostalCode": "23423",
+    "IBAN": "HR8810010051734412003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "POLI\u010cNIK",
+    "JOPPD": "03450",
+    "PostalCode": "23241",
+    "IBAN": "HR1310010051734512002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "POPOVAC",
+    "JOPPD": "03468",
+    "PostalCode": "31303",
+    "IBAN": "HR9410010051734612006",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "POPOVA\u010cA",
+    "JOPPD": "03476",
+    "PostalCode": "44317",
+    "IBAN": "HR4610010051734712004",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "PORE\u010c-PARENZO",
+    "JOPPD": "03484",
+    "PostalCode": "52440",
+    "IBAN": "HR1410010051734812005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "POSEDARJE",
+    "JOPPD": "03492",
+    "PostalCode": "23242",
+    "IBAN": "HR2010010051734912001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "POSTIRA",
+    "JOPPD": "03506",
+    "PostalCode": "21410",
+    "IBAN": "HR9010010051735012009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "POVLJANA",
+    "JOPPD": "05738",
+    "PostalCode": "23249",
+    "IBAN": "HR6410010051757312001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PO\u017dEGA",
+    "JOPPD": "03514",
+    "PostalCode": "34000",
+    "IBAN": "HR3710010051735112000",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "PREGRADA",
+    "JOPPD": "03522",
+    "PostalCode": "49218",
+    "IBAN": "HR4810010051735212003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "PREKO",
+    "JOPPD": "03549",
+    "PostalCode": "23273",
+    "IBAN": "HR5410010051735412006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PRELOG",
+    "JOPPD": "03557",
+    "PostalCode": "40323",
+    "IBAN": "HR0610010051735512004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PRESEKA",
+    "JOPPD": "03565",
+    "PostalCode": "10346",
+    "IBAN": "HR7110010051735612005",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PRGOMET",
+    "JOPPD": "05894",
+    "PostalCode": "21201",
+    "IBAN": "HR9710010051758912004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PRIBISLAVEC",
+    "JOPPD": "06203",
+    "IBAN": "HR2310010051762012001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PRIMORSKI DOLAC",
+    "JOPPD": "05908",
+    "PostalCode": "21227",
+    "IBAN": "HR1110010051759012007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PRIMO\u0160TEN",
+    "JOPPD": "03573",
+    "PostalCode": "22202",
+    "IBAN": "HR7710010051735712001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "PRIVLAKA (VUKOVAR)",
+    "JOPPD": "05835",
+    "PostalCode": "32251",
+    "IBAN": "HR1910010051758312008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PRIVLAKA (ZADAR)",
+    "JOPPD": "05746",
+    "PostalCode": "23233",
+    "IBAN": "HR9110010051757412007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PROLO\u017dAC",
+    "JOPPD": "00884",
+    "IBAN": "HR1010010051708812003",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PROMINA",
+    "JOPPD": "02984",
+    "IBAN": "HR1110010051729812000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PU\u010cI\u0160\u0106A",
+    "JOPPD": "03581",
+    "PostalCode": "21412",
+    "IBAN": "HR0710010051735812007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "PULA-POLA",
+    "JOPPD": "03590",
+    "PostalCode": "52100",
+    "IBAN": "HR7210010051735912008",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "PUNAT",
+    "JOPPD": "03603",
+    "PostalCode": "51521",
+    "IBAN": "HR0810010051736012003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PUNITOVCI",
+    "JOPPD": "03611",
+    "PostalCode": "31424",
+    "IBAN": "HR3010010051736112002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "PU\u0160\u0106A",
+    "JOPPD": "03620",
+    "PostalCode": "10294",
+    "IBAN": "HR1410010051736212006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "RAB",
+    "JOPPD": "03638",
+    "PostalCode": "51280",
+    "IBAN": "HR6310010051736312004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "RADOBOJ",
+    "JOPPD": "03646",
+    "PostalCode": "49232",
+    "IBAN": "HR3110010051736412005",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "RAKOVEC",
+    "JOPPD": "05363",
+    "PostalCode": "10347",
+    "IBAN": "HR8210010051753612000",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "RAKOVICA",
+    "JOPPD": "03654",
+    "PostalCode": "47245",
+    "IBAN": "HR3710010051736512001",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "RASINJA",
+    "JOPPD": "03662",
+    "PostalCode": "48312",
+    "IBAN": "HR6410010051736612007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "RA\u0160A",
+    "JOPPD": "03689",
+    "PostalCode": "52223",
+    "IBAN": "HR9710010051736812009",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "RAVNA GORA",
+    "JOPPD": "03697",
+    "PostalCode": "51314",
+    "IBAN": "HR4410010051736912000",
+    "TaxRate": 7.5
+  },
+  {
+    "Name": "RA\u017dANAC",
+    "JOPPD": "03719",
+    "PostalCode": "23248",
+    "IBAN": "HR6610010051737112006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "RE\u0160ETARI",
+    "JOPPD": "03727",
+    "PostalCode": "35403",
+    "IBAN": "HR1810010051737212004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "RIBNIK",
+    "JOPPD": "05568",
+    "PostalCode": "47272",
+    "IBAN": "HR6810010051755612004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "RIJEKA",
+    "JOPPD": "03735",
+    "PostalCode": "51000",
+    "IBAN": "HR8310010051737312005",
+    "TaxRate": 15.0
+  },
+  {
+    "Name": "ROGOZNICA",
+    "JOPPD": "05827",
+    "PostalCode": "22203",
+    "IBAN": "HR5110010051758212007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ROVINJ-ROVIGNO",
+    "JOPPD": "03743",
+    "PostalCode": "52210",
+    "IBAN": "HR8910010051737412001",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "ROVI\u0160\u0106E",
+    "JOPPD": "03751",
+    "PostalCode": "43212",
+    "IBAN": "HR1910010051737512007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "RUGVICA",
+    "JOPPD": "03760",
+    "PostalCode": "10372",
+    "IBAN": "HR8410010051737612008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "RUNOVI\u0106I",
+    "JOPPD": "05916",
+    "PostalCode": "21261",
+    "IBAN": "HR7610010051759112008",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "RU\u017dI\u0106",
+    "JOPPD": "03778",
+    "PostalCode": "22322",
+    "IBAN": "HR5210010051737712009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "SABORSKO",
+    "JOPPD": "03786",
+    "PostalCode": "47306",
+    "IBAN": "HR9610010051737812000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SALI",
+    "JOPPD": "03794",
+    "PostalCode": "23281",
+    "IBAN": "HR1010010051737912003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SAMOBOR",
+    "JOPPD": "03808",
+    "PostalCode": "10430",
+    "IBAN": "HR7510010051738012004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SATNICA \u0110AKOVA\u010cKA",
+    "JOPPD": "03816",
+    "PostalCode": "31421",
+    "IBAN": "HR4310010051738112005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SEGET",
+    "JOPPD": "03824",
+    "IBAN": "HR4910010051738212001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SELCA",
+    "JOPPD": "03832",
+    "PostalCode": "21425",
+    "IBAN": "HR7610010051738312007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SELNICA",
+    "JOPPD": "03859",
+    "PostalCode": "40314",
+    "IBAN": "HR1210010051738512009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SEMELJCI",
+    "JOPPD": "03867",
+    "PostalCode": "31402",
+    "IBAN": "HR5610010051738612000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SENJ",
+    "JOPPD": "03875",
+    "PostalCode": "53270",
+    "IBAN": "HR6710010051738712003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SEVERIN",
+    "JOPPD": "05622",
+    "PostalCode": "43274",
+    "IBAN": "HR9210010051756212002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SIBINJ",
+    "JOPPD": "03883",
+    "PostalCode": "35252",
+    "IBAN": "HR8910010051738812002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SIKIREVCI",
+    "JOPPD": "05703",
+    "PostalCode": "35224",
+    "IBAN": "HR4110010051757012006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SINJ",
+    "JOPPD": "03891",
+    "PostalCode": "21230",
+    "IBAN": "HR7310010051738912006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SIRA\u010c",
+    "JOPPD": "03905",
+    "PostalCode": "43541",
+    "IBAN": "HR0910010051739012001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SISAK",
+    "JOPPD": "03913",
+    "PostalCode": "44000",
+    "IBAN": "HR3610010051739112007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SKRAD",
+    "JOPPD": "03930",
+    "PostalCode": "51311",
+    "IBAN": "HR6910010051739312009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SKRADIN",
+    "JOPPD": "03948",
+    "PostalCode": "22222",
+    "IBAN": "HR1610010051739412000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "SLATINA",
+    "JOPPD": "03956",
+    "PostalCode": "33520",
+    "IBAN": "HR2710010051739512003",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "SLAVONSKI BROD",
+    "JOPPD": "03964",
+    "PostalCode": "35000",
+    "IBAN": "HR4910010051739612002",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "SLAVONSKI \u0160AMAC",
+    "JOPPD": "03972",
+    "PostalCode": "35220",
+    "IBAN": "HR3310010051739712006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SLIVNO",
+    "JOPPD": "03999",
+    "PostalCode": "21272",
+    "IBAN": "HR5010010051739912005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SLUNJ",
+    "JOPPD": "04006",
+    "PostalCode": "47240",
+    "IBAN": "HR4510010051740012005",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "SMOKVICA",
+    "JOPPD": "04022",
+    "PostalCode": "20272",
+    "IBAN": "HR7810010051740212007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SOKOLOVAC",
+    "JOPPD": "04057",
+    "PostalCode": "48306",
+    "IBAN": "HR5810010051740512000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SOLIN",
+    "JOPPD": "04065",
+    "PostalCode": "21209",
+    "IBAN": "HR6910010051740612003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SOPJE",
+    "JOPPD": "04073",
+    "PostalCode": "33525",
+    "IBAN": "HR9110010051740712002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SPLIT",
+    "JOPPD": "04090",
+    "PostalCode": "21000",
+    "IBAN": "HR2710010051740912004",
+    "TaxRate": 15.0
+  },
+  {
+    "Name": "SRA\u010cINEC",
+    "JOPPD": "04103",
+    "PostalCode": "42209",
+    "IBAN": "HR3810010051741012007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "STANKOVCI",
+    "JOPPD": "04111",
+    "PostalCode": "23422",
+    "IBAN": "HR0610010051741112008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STARA GRADI\u0160KA",
+    "JOPPD": "04120",
+    "PostalCode": "35435",
+    "IBAN": "HR7110010051741212009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "STARI GRAD",
+    "JOPPD": "04138",
+    "PostalCode": "21460",
+    "IBAN": "HR1810010051741312000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "STARI JANKOVCI",
+    "JOPPD": "04146",
+    "PostalCode": "32241",
+    "IBAN": "HR2910010051741412003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STARI MIKANOVCI",
+    "JOPPD": "04154",
+    "PostalCode": "32284",
+    "IBAN": "HR5110010051741512002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "STARIGRAD",
+    "JOPPD": "04162",
+    "PostalCode": "23244",
+    "IBAN": "HR3510010051741612006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STARO PETROVO SELO",
+    "JOPPD": "04189",
+    "PostalCode": "35420",
+    "IBAN": "HR5210010051741812005",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "STON",
+    "JOPPD": "04197",
+    "PostalCode": "20230",
+    "IBAN": "HR5810010051741912001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STRAHONINEC",
+    "JOPPD": "06068",
+    "IBAN": "HR0110010051760612008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STRIZIVOJNA",
+    "JOPPD": "04219",
+    "PostalCode": "31410",
+    "IBAN": "HR7510010051742112000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STUBI\u010cKE TOPLICE",
+    "JOPPD": "04227",
+    "PostalCode": "49244",
+    "IBAN": "HR8610010051742212003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "STUPNIK",
+    "JOPPD": "05517",
+    "IBAN": "HR5510010051755112009",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "SU\u0106URAJ",
+    "JOPPD": "04235",
+    "PostalCode": "21469",
+    "IBAN": "HR1110010051742312002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SUHOPOLJE",
+    "JOPPD": "04243",
+    "PostalCode": "33410",
+    "IBAN": "HR9210010051742412006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SUKO\u0160AN",
+    "JOPPD": "04251",
+    "PostalCode": "23206",
+    "IBAN": "HR4410010051742512004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SUNJA",
+    "JOPPD": "04260",
+    "PostalCode": "44210",
+    "IBAN": "HR1210010051742612005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SUPETAR",
+    "JOPPD": "04278",
+    "PostalCode": "21400",
+    "IBAN": "HR1810010051742712001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SUTIVAN",
+    "JOPPD": "05924",
+    "PostalCode": "21403",
+    "IBAN": "HR4410010051759212009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SVETA MARIJA",
+    "JOPPD": "06076",
+    "PostalCode": "40326",
+    "IBAN": "HR6610010051760712009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETA NEDELJA (LABIN)",
+    "JOPPD": "04324",
+    "IBAN": "HR5210010051743212006",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "SVETA NEDELJA (SAMOBOR)",
+    "JOPPD": "04367",
+    "PostalCode": "10431",
+    "IBAN": "HR0510010051743612007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETI \u0110UR\u0110",
+    "JOPPD": "04375",
+    "PostalCode": "42233",
+    "IBAN": "HR7010010051743712008",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "SVETI FILIP I JAKOV",
+    "JOPPD": "04286",
+    "PostalCode": "23207",
+    "IBAN": "HR4510010051742812007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SVETI ILIJA",
+    "JOPPD": "04383",
+    "PostalCode": "42214",
+    "IBAN": "HR3810010051743812009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "SVETI IVAN ZELINA",
+    "JOPPD": "04294",
+    "PostalCode": "10380",
+    "IBAN": "HR1310010051742912008",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "SVETI IVAN \u017dABNO",
+    "JOPPD": "04391",
+    "PostalCode": "48214",
+    "IBAN": "HR8210010051743912000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETI JURAJ NA BREGU",
+    "JOPPD": "04405",
+    "PostalCode": "53284",
+    "IBAN": "HR2310010051744012002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETI KRI\u017d ZA\u010cRETJE",
+    "JOPPD": "04308",
+    "PostalCode": "49223",
+    "IBAN": "HR4610010051743012003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETI LOVRE\u010c",
+    "JOPPD": "04316",
+    "PostalCode": "52448",
+    "IBAN": "HR6810010051743112002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "SVETI MARTIN NA MURI",
+    "JOPPD": "04413",
+    "PostalCode": "40313",
+    "IBAN": "HR0710010051744112006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETI PETAR OREHOVEC",
+    "JOPPD": "04421",
+    "IBAN": "HR5610010051744212004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "SVETI PETAR U \u0160UMI",
+    "JOPPD": "04332",
+    "PostalCode": "52404",
+    "IBAN": "HR0410010051743312004",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "SVETVIN\u010cENAT",
+    "JOPPD": "04359",
+    "PostalCode": "52342",
+    "IBAN": "HR7510010051743512001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u0160ANDROVAC",
+    "JOPPD": "05649",
+    "PostalCode": "43227",
+    "IBAN": "HR2810010051756412004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0160ENKOVEC",
+    "JOPPD": "06084",
+    "PostalCode": "10292",
+    "IBAN": "HR1310010051760812000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0160ESTANOVAC",
+    "JOPPD": "04430",
+    "PostalCode": "21250",
+    "IBAN": "HR2410010051744312005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0160IBENIK",
+    "JOPPD": "04448",
+    "PostalCode": "22000",
+    "IBAN": "HR3010010051744412001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "\u0160KABRNJA",
+    "JOPPD": "04456",
+    "PostalCode": "23223",
+    "IBAN": "HR5710010051744512007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "\u0160ODOLOVCI",
+    "JOPPD": "06149",
+    "IBAN": "HR5810010051761412008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0160OLTA",
+    "JOPPD": "04472",
+    "IBAN": "HR9010010051744712009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0160PI\u0160I\u0106 BUKOVICA",
+    "JOPPD": "04499",
+    "PostalCode": "33404",
+    "IBAN": "HR4810010051744912003",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "\u0160TEFANJE",
+    "JOPPD": "04502",
+    "PostalCode": "43246",
+    "IBAN": "HR1610010051745012004",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u0160TITAR",
+    "JOPPD": "06289",
+    "PostalCode": "32274",
+    "IBAN": "HR9610010051762812004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u0160TRIGOVA",
+    "JOPPD": "04529",
+    "PostalCode": "40312",
+    "IBAN": "HR8710010051745212001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TAR-VABRIGA-TORRE-ABREGA",
+    "JOPPD": "06319",
+    "IBAN": "HR4310010051763112009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TINJAN",
+    "JOPPD": "04537",
+    "PostalCode": "52444",
+    "IBAN": "HR1710010051745312007",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "TISNO",
+    "JOPPD": "04545",
+    "PostalCode": "22240",
+    "IBAN": "HR8210010051745412008",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "TKON",
+    "JOPPD": "05754",
+    "PostalCode": "23212",
+    "IBAN": "HR5910010051757512008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TOMPOJEVCI",
+    "JOPPD": "04561",
+    "IBAN": "HR9410010051745612000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TOPUSKO",
+    "JOPPD": "04570",
+    "PostalCode": "44415",
+    "IBAN": "HR0810010051745712003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TORDINCI",
+    "JOPPD": "04588",
+    "PostalCode": "32214",
+    "IBAN": "HR3010010051745812002",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "TOUNJ",
+    "JOPPD": "05576",
+    "PostalCode": "47264",
+    "IBAN": "HR3610010051755712005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TOVARNIK",
+    "JOPPD": "04596",
+    "PostalCode": "32249",
+    "IBAN": "HR1410010051745912006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TRIBUNJ",
+    "JOPPD": "06262",
+    "PostalCode": "22212",
+    "IBAN": "HR6310010051762612002",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "TRILJ",
+    "JOPPD": "04600",
+    "PostalCode": "21240",
+    "IBAN": "HR4710010051746012001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TRNAVA",
+    "JOPPD": "04618",
+    "PostalCode": "31411",
+    "IBAN": "HR7410010051746112007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TRNOVEC BARTOLOVE\u010cKI",
+    "JOPPD": "04626",
+    "PostalCode": "42202",
+    "IBAN": "HR4210010051746212008",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "TROGIR",
+    "JOPPD": "04634",
+    "PostalCode": "21219",
+    "IBAN": "HR1010010051746312009",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "TRPANJ",
+    "JOPPD": "06017",
+    "PostalCode": "20240",
+    "IBAN": "HR8010010051760112006",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "TRPINJA",
+    "JOPPD": "04642",
+    "PostalCode": "32224",
+    "IBAN": "HR5410010051746412000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "TU\u010cEPI",
+    "JOPPD": "05932",
+    "PostalCode": "21325",
+    "IBAN": "HR8810010051759312000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "TUHELJ",
+    "JOPPD": "04669",
+    "PostalCode": "49215",
+    "IBAN": "HR8710010051746612002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "UDBINA",
+    "JOPPD": "04677",
+    "PostalCode": "53234",
+    "IBAN": "HR7110010051746712006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "UMAG-UMAGO",
+    "JOPPD": "04685",
+    "PostalCode": "52470",
+    "IBAN": "HR2310010051746812004",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "UNE\u0160I\u0106",
+    "JOPPD": "04693",
+    "PostalCode": "22323",
+    "IBAN": "HR8810010051746912005",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "VALPOVO",
+    "JOPPD": "04715",
+    "PostalCode": "31550",
+    "IBAN": "HR6710010051747112009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VARA\u017dDIN",
+    "JOPPD": "04723",
+    "PostalCode": "42000",
+    "IBAN": "HR1410010051747212000",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VARA\u017dDINSKE TOPLICE",
+    "JOPPD": "04731",
+    "PostalCode": "42223",
+    "IBAN": "HR2510010051747312003",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VELA LUKA",
+    "JOPPD": "04740",
+    "PostalCode": "20270",
+    "IBAN": "HR4710010051747412002",
+    "TaxRate": 9.0
+  },
+  {
+    "Name": "VELIKA",
+    "JOPPD": "04758",
+    "PostalCode": "34330",
+    "IBAN": "HR3110010051747512006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VELIKA GORICA",
+    "JOPPD": "05410",
+    "PostalCode": "10409",
+    "IBAN": "HR6210010051754112007",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "VELIKA KOPANICA",
+    "JOPPD": "04766",
+    "PostalCode": "35221",
+    "IBAN": "HR8010010051747612004",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "VELIKA LUDINA",
+    "JOPPD": "04774",
+    "PostalCode": "44316",
+    "IBAN": "HR4810010051747712005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VELIKA PISANICA",
+    "JOPPD": "04782",
+    "PostalCode": "43271",
+    "IBAN": "HR5410010051747812001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VELIKA TRNOVITICA",
+    "JOPPD": "05657",
+    "PostalCode": "43285",
+    "IBAN": "HR9310010051756512005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VELIKI BUKOVEC",
+    "JOPPD": "05584",
+    "IBAN": "HR4210010051755812001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "VELIKI GR\u0110EVAC",
+    "JOPPD": "04804",
+    "PostalCode": "43270",
+    "IBAN": "HR7110010051748012000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VELIKO TRGOVI\u0160\u0106E",
+    "JOPPD": "04812",
+    "PostalCode": "49214",
+    "IBAN": "HR8210010051748112003",
+    "TaxRate": 7.5
+  },
+  {
+    "Name": "VELIKO TROJSTVO",
+    "JOPPD": "04839",
+    "PostalCode": "43226",
+    "IBAN": "HR8810010051748312006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VIDOVEC",
+    "JOPPD": "04847",
+    "PostalCode": "42205",
+    "IBAN": "HR4010010051748412004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VILJEVO",
+    "JOPPD": "04855",
+    "PostalCode": "31531",
+    "IBAN": "HR0810010051748512005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VINICA",
+    "JOPPD": "04863",
+    "PostalCode": "42207",
+    "IBAN": "HR1410010051748612001",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "VINKOVCI",
+    "JOPPD": "04871",
+    "PostalCode": "32100",
+    "IBAN": "HR4110010051748712007",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VINODOLSKA OP\u0106INA",
+    "JOPPD": "04880",
+    "IBAN": "HR0910010051748812008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VIR",
+    "JOPPD": "04898",
+    "PostalCode": "23234",
+    "IBAN": "HR7410010051748912009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VIRJE",
+    "JOPPD": "04901",
+    "PostalCode": "48326",
+    "IBAN": "HR5310010051749012006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VIROVITICA",
+    "JOPPD": "04910",
+    "PostalCode": "33000",
+    "IBAN": "HR0510010051749112004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VIS",
+    "JOPPD": "04928",
+    "PostalCode": "21480",
+    "IBAN": "HR7010010051749212005",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "VISOKO",
+    "JOPPD": "04936",
+    "PostalCode": "42224",
+    "IBAN": "HR7610010051749312001",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VI\u0160KOVCI",
+    "JOPPD": "04944",
+    "PostalCode": "31401",
+    "IBAN": "HR0610010051749412007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VI\u0160KOVO",
+    "JOPPD": "04952",
+    "PostalCode": "51216",
+    "IBAN": "HR7110010051749512008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VI\u0160NJAN-VISIGNANO",
+    "JOPPD": "04979",
+    "PostalCode": "52463",
+    "IBAN": "HR8310010051749712000",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "VI\u017dINADA-VISINADA",
+    "JOPPD": "04987",
+    "PostalCode": "52447",
+    "IBAN": "HR9410010051749812003",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "VLADISLAVCI",
+    "JOPPD": "05797",
+    "PostalCode": "31404",
+    "IBAN": "HR0710010051757912002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VO\u0106IN",
+    "JOPPD": "04995",
+    "PostalCode": "33522",
+    "IBAN": "HR1910010051749912002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VODICE",
+    "JOPPD": "05002",
+    "PostalCode": "22211",
+    "IBAN": "HR1910010051750012009",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "VODNJAN-DIGNANO",
+    "JOPPD": "05029",
+    "PostalCode": "52215",
+    "IBAN": "HR7410010051750212003",
+    "TaxRate": 7.5
+  },
+  {
+    "Name": "VO\u0110INCI",
+    "JOPPD": "05843",
+    "PostalCode": "32283",
+    "IBAN": "HR8410010051758412009",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VOJNI\u0106",
+    "JOPPD": "05037",
+    "PostalCode": "47220",
+    "IBAN": "HR9610010051750312002",
+    "TaxRate": 7.5
+  },
+  {
+    "Name": "VRATI\u0160INEC",
+    "JOPPD": "05045",
+    "PostalCode": "40316",
+    "IBAN": "HR8010010051750412006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VRBANJA",
+    "JOPPD": "05053",
+    "PostalCode": "32254",
+    "IBAN": "HR3210010051750512004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "VRBJE",
+    "JOPPD": "05061",
+    "PostalCode": "35423",
+    "IBAN": "HR9710010051750612005",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "VRBNIK",
+    "JOPPD": "05070",
+    "PostalCode": "51516",
+    "IBAN": "HR0610010051750712001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VRBOVEC",
+    "JOPPD": "05088",
+    "PostalCode": "10340",
+    "IBAN": "HR3310010051750812007",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "VRBOVSKO",
+    "JOPPD": "05096",
+    "PostalCode": "51326",
+    "IBAN": "HR9810010051750912008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VRGORAC",
+    "JOPPD": "05118",
+    "PostalCode": "21276",
+    "IBAN": "HR5610010051751112002",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "VRHOVINE",
+    "JOPPD": "05126",
+    "PostalCode": "53223",
+    "IBAN": "HR4010010051751212006",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "VRLIKA",
+    "JOPPD": "05134",
+    "PostalCode": "21236",
+    "IBAN": "HR8910010051751312004",
+    "TaxRate": 7.0
+  },
+  {
+    "Name": "VRPOLJE",
+    "JOPPD": "05142",
+    "PostalCode": "35210",
+    "IBAN": "HR5710010051751412005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VRSAR-ORSERA",
+    "JOPPD": "05169",
+    "PostalCode": "52450",
+    "IBAN": "HR9010010051751612007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VRSI",
+    "JOPPD": "06254",
+    "PostalCode": "23235",
+    "IBAN": "HR4110010051762512003",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VUKA",
+    "JOPPD": "05177",
+    "PostalCode": "31403",
+    "IBAN": "HR5810010051751712008",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "VUKOVAR",
+    "JOPPD": "05185",
+    "PostalCode": "32000",
+    "IBAN": "HR2610010051751812009",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZABOK",
+    "JOPPD": "05193",
+    "PostalCode": "49210",
+    "IBAN": "HR7010010051751912000",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZADAR",
+    "JOPPD": "05207",
+    "PostalCode": "23000",
+    "IBAN": "HR1110010051752012002",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "ZADVARJE",
+    "JOPPD": "05959",
+    "PostalCode": "21255",
+    "IBAN": "HR2410010051759512002",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZAGORSKA SELA",
+    "JOPPD": "05215",
+    "PostalCode": "49296",
+    "IBAN": "HR9210010051752112006",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZAGREB",
+    "JOPPD": "01333",
+    "PostalCode": "10000",
+    "IBAN": "HR1110010051713312009",
+    "TaxRate": 18.0
+  },
+  {
+    "Name": "ZAGVOZD",
+    "JOPPD": "05223",
+    "PostalCode": "21270",
+    "IBAN": "HR4410010051752212004",
+    "TaxRate": 6.0
+  },
+  {
+    "Name": "ZAPRE\u0160I\u0106",
+    "JOPPD": "05436",
+    "PostalCode": "10290",
+    "IBAN": "HR9510010051754312009",
+    "TaxRate": 12.0
+  },
+  {
+    "Name": "ZA\u017dABLJE",
+    "JOPPD": "05231",
+    "IBAN": "HR1210010051752312005",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZDENCI",
+    "JOPPD": "05240",
+    "PostalCode": "33513",
+    "IBAN": "HR1810010051752412001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZEMUNIK DONJI",
+    "JOPPD": "05258",
+    "IBAN": "HR4510010051752512007",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "ZLATAR",
+    "JOPPD": "05266",
+    "PostalCode": "49250",
+    "IBAN": "HR1310010051752612008",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "ZLATAR BISTRICA",
+    "JOPPD": "05274",
+    "PostalCode": "49247",
+    "IBAN": "HR7810010051752712009",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "ZMIJAVCI",
+    "JOPPD": "05282",
+    "PostalCode": "21266",
+    "IBAN": "HR2510010051752812000",
+    "TaxRate": 8.0
+  },
+  {
+    "Name": "ZRINSKI TOPOLOVAC",
+    "JOPPD": "05665",
+    "PostalCode": "43202",
+    "IBAN": "HR0210010051756612001",
+    "TaxRate": 0.0
+  },
+  {
+    "Name": "\u017dAKANJE",
+    "JOPPD": "05304",
+    "PostalCode": "47276",
+    "IBAN": "HR0410010051753012004",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u017dMINJ",
+    "JOPPD": "05312",
+    "PostalCode": "52341",
+    "IBAN": "HR6910010051753112005",
+    "TaxRate": 5.0
+  },
+  {
+    "Name": "\u017dUMBERAK",
+    "JOPPD": "05401",
+    "IBAN": "HR3510010051754012001",
+    "TaxRate": 3.0
+  },
+  {
+    "Name": "\u017dUPA DUBROVA\u010cKA",
+    "JOPPD": "06025",
+    "IBAN": "HR3210010051760212004",
+    "TaxRate": 10.0
+  },
+  {
+    "Name": "\u017dUPANJA",
+    "JOPPD": "05347",
+    "PostalCode": "32270",
+    "IBAN": "HR7010010051753412008",
+    "TaxRate": 9.0
+  }
+]

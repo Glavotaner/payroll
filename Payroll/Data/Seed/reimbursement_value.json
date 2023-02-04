@@ -1,0 +1,17 @@
+[
+    {
+        "Reimbursement": 1,
+        "Amount": 500,
+        "ValidFrom": "2020-01-01"
+    },
+    {
+        "Reimbursement": 2,
+        "Amount": 500,
+        "ValidFrom": "2020-01-01"
+    },
+    {
+        "Reimbursement": 3,
+        "Amount": 500,
+        "ValidFrom": "2020-01-01"
+    }
+]

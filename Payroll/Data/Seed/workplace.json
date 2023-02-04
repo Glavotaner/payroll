@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Konzultant",
+    "Salary": 5600,
+    "Retired": false
+  },
+  {
+    "Name": "Developer",
+    "Salary": 7000,
+    "Retired": false
+  },
+  {
+    "Name": "Projekt menadžer",
+    "Salary": 8000,
+    "Retired": false
+  }
+]

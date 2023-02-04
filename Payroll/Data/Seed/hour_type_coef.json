@@ -1,0 +1,17 @@
+[
+    {
+        "HourType": 1,
+        "Coefficient": 0.5,
+        "ValidFrom": "2020-01-01"
+    },
+    {
+        "HourType": 2,
+        "Coefficient": 0.5,
+        "ValidFrom": "2020-01-01"
+    },
+    {
+        "HourType": 3,
+        "Coefficient": 0.5,
+        "ValidFrom": "2020-01-01"
+    }
+]

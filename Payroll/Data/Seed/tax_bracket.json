@@ -1,0 +1,20 @@
+[
+  {
+    "LowerBound": 0,
+    "UpperBound": 30000,
+    "Rate": 20
+  },
+  {
+    "LowerBound": 30000.01,
+    "Rate": 30
+  },
+  {
+    "LowerBound": 0,
+    "UpperBound": 30000,
+    "Rate": 24
+  },
+  {
+    "LowerBound": 30000.01,
+    "Rate": 36
+  }
+]

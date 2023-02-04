@@ -31,6 +31,8 @@
     <None Remove="Areas\Payroll\Models\" />
     <None Remove="Areas\PersonData\" />
     <None Remove="Areas\PersonData\Models\" />
+    <None Remove="Data\Seed\" />
+    <None Remove="Newtonsoft.Json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -48,6 +50,7 @@
     <Folder Include="Areas\PayrollData\Models\" />
     <Folder Include="Areas\PersonData\" />
     <Folder Include="Areas\PersonData\Models\" />
+    <Folder Include="Data\Seed\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
@@ -62,6 +65,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.editorconfig" />

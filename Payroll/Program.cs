@@ -10,6 +10,19 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    PayrollApp.Areas.ContributionsData.Models.SeedData.Initialize(services);
+    PayrollApp.Areas.EmploymentData.Models.SeedData.Initialize(services);
+    PayrollApp.Areas.HoursData.Models.SeedData.Initialize(services);
+    PayrollApp.Areas.PayrollData.Models.SeedData.Initialize(services);
+    PayrollApp.Areas.ReimbursementsData.Models.SeedData.Initialize(services);
+    PayrollApp.Areas.TaxData.Models.SeedData.Initialize(services);
+    PayrollApp.Areas.ThirdPartiesData.Models.SeedData.Initialize(services);
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

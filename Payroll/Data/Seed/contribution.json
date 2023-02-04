@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "MIO 1",
+    "FromPay": true,
+    "Retired": false
+  },
+  {
+    "Name": "MIO 2",
+    "FromPay": true,
+    "Retired": false
+  },
+  {
+    "Name": "Obvezno zdravstveno osiguranje",
+    "FromPay": false,
+    "Retired": false
+  },
+  {
+    "Name": "Doprinos za zapošljavanje",
+    "FromPay": true,
+    "Retired": true
+  }
+]

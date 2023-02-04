@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "REG",
+    "Contributions": [
+      1,
+      3,
+      4
+    ],
+    "Retired": false
+  },
+  {
+    "Name": "NOIND",
+    "Contributions": [
+      2,
+      4
+    ],
+    "Retired": false
+  },
+  {
+    "Name": "Y30",
+    "Contributions": [
+      1,
+      3
+    ],
+    "Retired": false
+  }
+]

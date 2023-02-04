@@ -1,0 +1,20 @@
+[
+  {
+    "Base": 2500,
+    "PersonalCoefficient": 1.6,
+    "Dependent": 0.7,
+    "FirstChild": 0.7,
+    "SecondChild": 1,
+    "ThirdChild": 1.4,
+    "FourthChild": 1.9,
+    "FifthChild": 2.5,
+    "SixthChild": 3.2,
+    "SeventhChild": 4.0,
+    "EighthChild": 4.9,
+    "NinthChild": 5.9,
+    "MultiplicationCoefficient": 1.1,
+    "DisabledDependentPartial": 0.4,
+    "DisabledDependentFull": 1.5,
+    "ValidFrom": "2021-01-01"
+  }
+]

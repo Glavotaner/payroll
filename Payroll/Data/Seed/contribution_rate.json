@@ -1,0 +1,27 @@
+[
+  {
+    "Name": 1,
+    "Rate": 15,
+    "ValidFrom": "2018-01-01"
+  },
+  {
+    "Name": 1,
+    "Rate": 20,
+    "ValidFrom": "2018-01-01"
+  },
+  {
+    "Name": 2,
+    "Rate": 5,
+    "ValidFrom": "2018-01-01"
+  },
+  {
+    "Name": 3,
+    "Rate": 16.5,
+    "ValidFrom": "2018-01-01"
+  },
+  {
+    "Name": 4,
+    "Rate": 0.5,
+    "ValidFrom": "2018-01-01"
+  }
+]
