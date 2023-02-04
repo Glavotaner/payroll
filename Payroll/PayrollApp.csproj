@@ -33,6 +33,7 @@
     <None Remove="Areas\PersonData\Models\" />
     <None Remove="Data\Seed\" />
     <None Remove="Newtonsoft.Json" />
+    <None Remove="ValidationAttributes\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -51,6 +52,7 @@
     <Folder Include="Areas\PersonData\" />
     <Folder Include="Areas\PersonData\Models\" />
     <Folder Include="Data\Seed\" />
+    <Folder Include="ValidationAttributes\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
