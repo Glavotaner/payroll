@@ -8,7 +8,9 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
 		public int Id { get; set; }
 
 		public float Base { get; set; }
-		public float Personal { get; set; }
+
+        [Display(Name = "Personal Deductible Coefficient")]
+		public float PersonalCoefficient { get; set; }
 		public float Dependent { get; set; }
 
 		[Display(Name = "Partially Disabled Dependent")]
