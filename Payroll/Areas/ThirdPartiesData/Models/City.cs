@@ -12,7 +12,7 @@ namespace PayrollApp.Areas.ThirdParties.Models
 		public string Name { get; set; } = default!;
 
 		[Display(Name = "Postal Code")]
-		public string PostalCode { get; set; } = default!;
+		public string? PostalCode { get; set; }
 
 		[Display(Name = "Tax Rate")]
 		public float TaxRate { get; set; }

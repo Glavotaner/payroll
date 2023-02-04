@@ -11,7 +11,7 @@ namespace PayrollApp.Areas.TaxData.Models
 		public float LowerBound { get; set; }
 
         [Display(Name = "Upper Bound")]
-        public float UpperBound { get; set; }
+        public float? UpperBound { get; set; }
 		public float Rate { get; set; }
 	}
 }
