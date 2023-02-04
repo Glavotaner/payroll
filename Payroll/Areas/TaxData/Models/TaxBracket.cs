@@ -7,11 +7,13 @@ namespace PayrollApp.Areas.TaxData.Models
 	{
 		public int Id { get; set; }
 
-		[Display(Name = "Lower Bound")]
+		[Display(Name = "Lower Bound"), DataType(DataType.Currency), TaxBracketLowerBound]
 		public float LowerBound { get; set; }
 
-        [Display(Name = "Upper Bound")]
+        [Display(Name = "Upper Bound"), DataType(DataType.Currency), TaxBracketUpperBound]
         public float? UpperBound { get; set; }
+
+		[Range(0, 100)]
 		public float Rate { get; set; }
 	}
 }
