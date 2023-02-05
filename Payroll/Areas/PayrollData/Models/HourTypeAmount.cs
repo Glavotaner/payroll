@@ -11,6 +11,8 @@ namespace PayrollApp.Areas.PayrollData.Models
 
 		[Display(Name = "Hour Type")]
 		public virtual HourType HourType { get; set; } = default!;
+
+		[DataType(DataType.Currency), Range(0, double.MaxValue)]
 		public float Amount { get; set; }
 	}
 }

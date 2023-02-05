@@ -10,8 +10,7 @@ namespace PayrollApp.Areas.TaxData.Models
         [Display(Name = "Tax Brackets")]
         public virtual ICollection<TaxBracket> TaxBrackets { get; set; } = default!;
 
-		[Display(Name = "Valid From")]
-		[DataType(DataType.Date)]
+		[Display(Name = "Valid From"), DataType(DataType.Date)]
 		public DateTime ValidFrom { get; set; }
 	}
 }

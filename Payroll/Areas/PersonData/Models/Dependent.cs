@@ -7,7 +7,7 @@ namespace PayrollApp.Areas.PersonData.Models
 	{
 		public int Id { get; set; }
 
-		[Display(Name = "Child in Line")]
+		[Display(Name = "Child in Line"), Range(0, int.MaxValue)]
 		public int? ChildInLine { get; set; }
 	}
 }

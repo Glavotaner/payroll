@@ -12,10 +12,12 @@ namespace PayrollApp.Areas.PersonData.Models
 	{
 		public int Id { get; set; }
 		public bool HRVI { get; set; }
+
+		[IBAN]
 		public string IBAN { get; set; } = default!;
 		public virtual Bank Bank { get; set; } = default!;
 
-		[Display(Name = "Protected IBAN")]
+		[Display(Name = "Protected IBAN"), IBAN]
 		public string? ProtectedIBAN { get; set; } = default!;
 
 		[Display(Name = "Protected Bank")]

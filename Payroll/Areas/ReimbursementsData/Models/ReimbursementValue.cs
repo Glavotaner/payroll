@@ -9,9 +9,11 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
 		public int Id { get; set; }
 
 		public virtual Reimbursement Reimbursement { get; set; } = default!;
+		
+		[DataType(DataType.Currency), Range(0, double.MaxValue)]
 		public float Value { get; set; }
 
-		[Display(Name = "Valid From")]
+		[Display(Name = "Valid From"), DataType(DataType.Date)]
 		public DateTime ValidFrom { get; set; }
 	}
 }

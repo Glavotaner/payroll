@@ -8,14 +8,13 @@ namespace PayrollApp.Areas.ThirdParties.Models
 	{
 		public int Id { get; set; }
 
-		[StringLength(13, MinimumLength = 13), PID]
+		[PID]
 		public string PID { get; set; } = default!;
 
 		[MaxLength(100)]
 		public string Name { get; set; } = default!;
 
-		// TODO reuse
-        [MaxLength(34), IBAN]
+        [IBAN]
         public string IBAN { get; set; } = default!;
 
         public virtual Address Address { get; set; } = default!;

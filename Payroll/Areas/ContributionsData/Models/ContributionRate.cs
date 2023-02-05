@@ -10,10 +10,10 @@ namespace PayrollApp.Areas.CalculationData.Models
 
 		public virtual Contribution Contribution { get; set; } = default!;
 
+		[Range(0, 100)]
         public float Rate { get; set; }
 
-		[Display(Name = "Valid From")]
-		[DataType(DataType.Date)]
+		[Display(Name = "Valid From"), DataType(DataType.Date)]
 		public DateTime ValidFrom { get; set; }
 	}
 }

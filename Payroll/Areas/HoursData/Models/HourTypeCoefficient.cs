@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PayrollApp.Areas.HoursData.Models
@@ -9,7 +10,10 @@ namespace PayrollApp.Areas.HoursData.Models
 
 		public virtual HourType HourType { get; set; } = default!;
 
+		[Range(0, 1)]
 		public float Coefficient { get; set; }
+
+		[Display(Name = "Valid From"), DataType(DataType.Date)]
 		public DateTime ValidFrom { get; set; }
 	}
 }

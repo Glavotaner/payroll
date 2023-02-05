@@ -47,5 +47,23 @@ namespace PayrollApp
 			return ValidationResult.Success;
 		}
 	}
+
+	// TODO implement
+	public class StartDateAttribute : ValidationAttribute
+	{
+		protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
+		{
+			return ValidationResult.Success;
+		}
+	}
+
+	// TODO implement
+	public class EndDateAttribute : ValidationAttribute
+	{
+		protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
+		{
+			return ValidationResult.Success;
+		}
+	}
 }
 

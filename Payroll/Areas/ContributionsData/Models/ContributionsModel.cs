@@ -7,6 +7,7 @@ namespace PayrollApp.Areas.CalculationData.Models
 	{
 		public int Id { get; set; }
 
+		[MaxLength(100)]
 		public string Name { get; set; } = default!;
 
         [Display(Name = "Contribution Rates")]
