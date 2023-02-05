@@ -1,0 +1,100 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/PayrollApp.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/PayrollApp.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}/PayrollApp.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "scaffold",
+            "command": "dotnet-aspnet-codegenerator",
+            "type": "shell",
+            "args": [
+                "controller",
+                "-name",
+                "${input:model}Controller",
+                "-namespace",
+                "PayrollApp.Areas.${input:area}Data.Controllers",
+                "-m",
+                "${input:model}",
+                "-dc",
+                "PayrollContext",
+                "-outDir",
+                "Areas/${input:area}Data/Controllers",
+                "--no-build",
+                "-scripts",
+                "-udl",
+            ]
+        },
+        {
+            "label": "ef: add migration",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "ef",
+                "migrations",
+                "add",
+                "${input:migration}",
+            ]
+        },
+        {
+            "label": "ef: update database",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "ef",
+                "database",
+                "update",
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "area",
+            "description": "Area",
+            "type": "promptString"
+        },
+        {
+            "id": "model",
+            "description": "Model",
+            "type": "promptString"
+        },
+        {
+            "id": "migration",
+            "description": "Migration name",
+            "type": "promptString"
+        },
+    ]
+}
