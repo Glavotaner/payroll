@@ -39,7 +39,7 @@ namespace PayrollApp.Data
         public DbSet<TaxBracket> TaxBracket { get; set; } = default!;
         public DbSet<TaxBreak> TaxBreak { get; set; } = default!;
         public DbSet<TaxModel> TaxModel { get; set; } = default!;
-        public DbSet<Address> Address { get; set; } = default!;
+        public DbSet<Street> Address { get; set; } = default!;
         public DbSet<Bank> Bank { get; set; } = default!;
         public DbSet<City> City { get; set; } = default!;
     }

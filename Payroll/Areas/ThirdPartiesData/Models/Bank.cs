@@ -17,7 +17,10 @@ namespace PayrollApp.Areas.ThirdParties.Models
         [IBAN]
         public string IBAN { get; set; } = default!;
 
-        public virtual Address Address { get; set; } = default!;
+		public virtual Street Street { get; set; } = default!;
+        
+		[MaxLength(10)]
+		public string StreetNumber { get; set; } = default!;
 	}
 }
 
