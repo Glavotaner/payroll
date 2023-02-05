@@ -55,7 +55,7 @@
                 "Areas/${input:area}Data/Controllers",
                 "--no-build",
                 "-scripts",
-                "-udl",
+                "-udl"
             ]
         },
         {
@@ -66,8 +66,9 @@
                 "ef",
                 "migrations",
                 "add",
-                "${input:migration}",
-            ]
+                "${input:migration}"
+            ],
+            "problemMatcher": []
         },
         {
             "label": "ef: update database",
@@ -76,8 +77,9 @@
             "args": [
                 "ef",
                 "database",
-                "update",
-            ]
+                "update"
+            ],
+            "problemMatcher": []
         }
     ],
     "inputs": [
