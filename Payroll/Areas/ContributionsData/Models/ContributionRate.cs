@@ -9,6 +9,7 @@ namespace PayrollApp.Areas.CalculationData.Models
         public int Id { get; set; }
 
         public virtual Contribution Contribution { get; set; } = default!;
+        public virtual ICollection<ContributionsModel> ContributionsModels { get; set; } = default!;
 
         [Range(0, 100)]
         public float Rate { get; set; }
