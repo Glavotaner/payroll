@@ -66,7 +66,8 @@ namespace PayrollApp.Areas.PayrollData.Models
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public decimal DependentsChildrenDeductible { get; set; }
 
-        [Display(Name = "Tax Base"), DataType(DataType.Currency)]
+        [Display(Name = "Tax Base")]
+        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public decimal TaxBase { get; set; }
 
         [Display(Name = "Income Tax Amount")]
