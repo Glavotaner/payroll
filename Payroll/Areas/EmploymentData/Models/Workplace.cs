@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PayrollApp.Areas.EmploymentData.Models
 {
@@ -10,7 +11,8 @@ namespace PayrollApp.Areas.EmploymentData.Models
         [MaxLength(100)]
         public string Name { get; set; } = default!;
 
-        [DataType(DataType.Currency), Range(0, double.MaxValue)]
+        [Range(0, double.MaxValue)]
+        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public float Salary { get; set; }
         public bool Retired { get; set; } = false;
     }

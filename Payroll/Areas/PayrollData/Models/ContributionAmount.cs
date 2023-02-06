@@ -1,17 +1,19 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using PayrollApp.Areas.CalculationData.Models;
 
 namespace PayrollApp.Areas.PayrollData.Models
 {
-	public class ContributionAmount
-	{
-		public int Id { get; set; }
+    public class ContributionAmount
+    {
+        public int Id { get; set; }
 
-		public virtual Contribution Contribution { get; set; } = default!;
+        public virtual Contribution Contribution { get; set; } = default!;
 
-		[DataType(DataType.Currency), Range(0, double.MaxValue)]
-		public float Amount { get; set; }
-	}
+        [Range(0, double.MaxValue)]
+        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
+        public float Amount { get; set; }
+    }
 }
 

@@ -1,23 +1,31 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PayrollApp.Areas.PayrollData.Models
 {
-	public class WageParameters
-	{
-		public int Id { get; set; }
+    public class WageParameters
+    {
+        public int Id { get; set; }
 
-		[Display(Name = "Min Base"), DataType(DataType.Currency), Range(0, double.MaxValue)]
-		public float MinBase { get; set; }
+        [Display(Name = "Min Base")]
+        [Range(0, double.MaxValue)]
+        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
+        public float MinBase { get; set; }
 
-        [Display(Name = "Max Base"), DataType(DataType.Currency), Range(0, double.MaxValue)]
+        [Display(Name = "Max Base")]
+        [Range(0, double.MaxValue)]
+        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public float MaxBase { get; set; }
 
-        [Display(Name = "Min Wage"), DataType(DataType.Currency),  Range(0, double.MaxValue)]
+        [Display(Name = "Min Wage")]
+        [Range(0, double.MaxValue)]
+        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public float MinWage { get; set; }
 
-        [Display(Name = "Valid From"), DataType(DataType.Date)]
+        [Display(Name = "Valid From")]
+        [DataType(DataType.Date)]
         public DateTime ValidFrom { get; set; }
-	}
+    }
 }
 
