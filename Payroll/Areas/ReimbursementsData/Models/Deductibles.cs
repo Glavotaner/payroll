@@ -8,58 +8,58 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
         public int Id { get; set; }
 
         [DataType(DataType.Currency), Range(0, Double.MaxValue)]
-        public float Base { get; set; }
+        public decimal Base { get; set; }
 
         [Display(Name = "Personal Deductible Coefficient")]
         [Range(0, 1)]
         public float PersonalCoefficient { get; set; }
 
         [Range(0, 1)]
-        public float Dependent { get; set; }
+        public decimal Dependent { get; set; }
 
         [Display(Name = "Partially Disabled Dependent")]
         [Range(0, 1)]
-        public float DisabledDependentPartial { get; set; }
+        public decimal DisabledDependentPartial { get; set; }
 
         [Display(Name = "Fully Disabled Dependent")]
         [Range(0, 1)]
-        public float DisabledDependentFull { get; set; }
+        public decimal DisabledDependentFull { get; set; }
 
         [Display(Name = "First Child")]
         [Range(0, 1)]
-        public float FirstChild { get; set; }
+        public decimal FirstChild { get; set; }
 
         [Display(Name = "Second Child")]
         [Range(0, 1)]
-        public float SecondChild { get; set; }
+        public decimal SecondChild { get; set; }
 
         [Display(Name = "Third Child")]
         [Range(0, 1)]
-        public float ThirdChild { get; set; }
+        public decimal ThirdChild { get; set; }
 
         [Display(Name = "Fourth Child")]
         [Range(0, 1)]
-        public float FourthChild { get; set; }
+        public decimal FourthChild { get; set; }
 
         [Display(Name = "Fifth Child")]
         [Range(0, 1)]
-        public float FifthChild { get; set; }
+        public decimal FifthChild { get; set; }
 
         [Display(Name = "Sixth Child")]
         [Range(0, 1)]
-        public float SixthChild { get; set; }
+        public decimal SixthChild { get; set; }
 
         [Display(Name = "Seventh Child")]
         [Range(0, 1)]
-        public float SeventhChild { get; set; }
+        public decimal SeventhChild { get; set; }
 
         [Display(Name = "Eighth Child")]
         [Range(0, 1)]
-        public float EighthChild { get; set; }
+        public decimal EighthChild { get; set; }
 
         [Display(Name = "Ninth Child")]
         [Range(0, 1)]
-        public float NinthChild { get; set; }
+        public decimal NinthChild { get; set; }
 
         [Display(Name = "Multiplication Coefficient")]
         [Range(0, 1)]

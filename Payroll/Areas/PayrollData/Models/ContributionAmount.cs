@@ -13,7 +13,7 @@ namespace PayrollApp.Areas.PayrollData.Models
 
         [Range(0, double.MaxValue)]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float Amount { get; set; }
+        public decimal Amount { get; set; }
     }
 }
 

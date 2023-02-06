@@ -11,17 +11,17 @@ namespace PayrollApp.Areas.PayrollData.Models
         [Display(Name = "Min Base")]
         [Range(0, double.MaxValue)]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float MinBase { get; set; }
+        public decimal MinBase { get; set; }
 
         [Display(Name = "Max Base")]
         [Range(0, double.MaxValue)]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float MaxBase { get; set; }
+        public decimal MaxBase { get; set; }
 
         [Display(Name = "Min Wage")]
         [Range(0, double.MaxValue)]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float MinWage { get; set; }
+        public decimal MinWage { get; set; }
 
         [Display(Name = "Valid From")]
         [DataType(DataType.Date)]

@@ -11,12 +11,12 @@ namespace PayrollApp.Areas.TaxData.Models
         [Display(Name = "Lower Bound")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         [TaxBracketLowerBound]
-        public float LowerBound { get; set; }
+        public decimal LowerBound { get; set; }
 
         [Display(Name = "Upper Bound")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         [TaxBracketUpperBound]
-        public float? UpperBound { get; set; }
+        public decimal? UpperBound { get; set; }
 
         [Range(0, 100)]
         public float Rate { get; set; }

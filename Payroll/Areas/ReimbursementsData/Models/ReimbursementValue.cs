@@ -12,7 +12,7 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
 
         [Range(0, double.MaxValue)]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float Value { get; set; }
+        public decimal Value { get; set; }
 
         [Display(Name = "Valid From")]
         [DataType(DataType.Date)]

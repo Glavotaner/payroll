@@ -19,83 +19,83 @@ namespace PayrollApp.Areas.PayrollData.Models
         public virtual Labour Labour { get; set; } = default!;
 
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float Wage { get; set; }
+        public decimal Wage { get; set; }
 
         [Display(Name = "Gross Salary")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float GrossSalary { get; set; }
+        public decimal GrossSalary { get; set; }
 
         [Display(Name = "Contributions Base")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float ContributionsBase { get; set; }
+        public decimal ContributionsBase { get; set; }
 
         // TODO make virtual
         [Display(Name = "Contributions From Pay")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float ContributionsFromPay { get; set; }
+        public decimal ContributionsFromPay { get; set; }
 
         // TODO make virtual
         [Display(Name = "Contributions Other")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float ContributionsOther { get; set; }
+        public decimal ContributionsOther { get; set; }
 
         [Display(Name = "Contribution Amounts")]
         public virtual ICollection<ContributionAmount> ContributionAmounts { get; set; } = default!;
 
         [Display(Name = "Income")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float Income { get; set; }
+        public decimal Income { get; set; }
 
         [Display(Name = "Personal Deductible")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float PersonalDeductible { get; set; }
+        public decimal PersonalDeductible { get; set; }
 
         [Display(Name = "Dependents Deductible")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float DependentsDeductible { get; set; }
+        public decimal DependentsDeductible { get; set; }
 
         [Display(Name = "Partially Disabled Dependents Deductible")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float DependentsDisabledPartialDeductible { get; set; }
+        public decimal DependentsDisabledPartialDeductible { get; set; }
 
         [Display(Name = "Fully Disabled Dependents Deductible")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float DependentsDisabledFullDeductible { get; set; }
+        public decimal DependentsDisabledFullDeductible { get; set; }
 
         [Display(Name = "Child Dependents Deductible")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float DependentsChildrenDeductible { get; set; }
+        public decimal DependentsChildrenDeductible { get; set; }
 
         [Display(Name = "Tax Base"), DataType(DataType.Currency)]
-        public float TaxBase { get; set; }
+        public decimal TaxBase { get; set; }
 
         [Display(Name = "Income Tax Amount")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float IncomeTaxAmount { get; set; }
+        public decimal IncomeTaxAmount { get; set; }
 
         [Display(Name = "City Tax Amount")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float CityTaxAmount { get; set; }
+        public decimal CityTaxAmount { get; set; }
 
         [Display(Name = "Tax Amount")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float TaxAmount { get; set; }
+        public decimal TaxAmount { get; set; }
 
         [Display(Name = "Net Salary")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float NetSalary { get; set; }
+        public decimal NetSalary { get; set; }
 
         // TODO make virtual
         [Display(Name = "Reimbursement Amount")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float ReimbursementsAmount { get; set; }
+        public decimal ReimbursementsAmount { get; set; }
 
         [Display(Name = "Reimbursement Amounts")]
         public virtual ICollection<ReimbursementAmount> ReimbursementAmounts { get; set; } = default!;
 
         [Display(Name = "Labour Cost")]
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public float LabourCost { get; set; }
+        public decimal LabourCost { get; set; }
     }
 }
 
