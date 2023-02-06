@@ -15,7 +15,7 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
         public decimal Value { get; set; }
 
         [Display(Name = "Valid From")]
-        [DataType(DataType.Date)]
+        [DataType(DataType.Date), Column(TypeName = "date")]
         public DateTime ValidFrom { get; set; }
     }
 }

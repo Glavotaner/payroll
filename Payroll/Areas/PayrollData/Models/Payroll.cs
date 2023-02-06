@@ -13,7 +13,7 @@ namespace PayrollApp.Areas.PayrollData.Models
         public int Counter { get; set; }
 
         [Display(Name = "Accounting Date")]
-        [DataType(DataType.Date)]
+        [DataType(DataType.Date), Column(TypeName = "date")]
         public DateTime AccountingDate { get; set; }
 
         public virtual Labour Labour { get; set; } = default!;
