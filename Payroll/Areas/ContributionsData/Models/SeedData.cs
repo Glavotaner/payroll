@@ -12,8 +12,10 @@ namespace PayrollApp.Areas.ContributionsData.Models
                 .GetRequiredService<DbContextOptions<PayrollContext>>()))
             {
                 Seeder.SeedGenericType<Contribution>(context.Contribution, "contribution");
-                DateTime validFrom = DateTime.Parse("2018-01-01");
-                context.ContributionRate.AddRange(new ContributionRate[] {
+                if (!context.ContributionRate.Any())
+                {
+                    DateTime validFrom = DateTime.Parse("2018-01-01");
+                    context.ContributionRate.AddRange(new ContributionRate[] {
                     new ContributionRate() {
                         Contribution = context.Contribution.Find(1)!,
                         Rate = 15,
@@ -40,9 +42,12 @@ namespace PayrollApp.Areas.ContributionsData.Models
                         ValidFrom = validFrom,
                     }
                 });
-                var contributionsWithIds = (int[] ids) => context
+                }
+                if (!context.ContributionsModel.Any())
+                {
+                    var contributionsWithIds = (int[] ids) => context
                 .ContributionRate.Where(c => ids.Contains(c.Id)).ToList();
-                context.ContributionsModel.AddRange(new ContributionsModel[] {
+                    context.ContributionsModel.AddRange(new ContributionsModel[] {
                     new ContributionsModel {
                         Name = "REG",
                         ContributionRates = contributionsWithIds(
@@ -59,6 +64,8 @@ namespace PayrollApp.Areas.ContributionsData.Models
                             new int[] {1,3})
                     },
                 });
+                }
+                
                 context.SaveChanges();
             }
         }

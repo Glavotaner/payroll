@@ -15,7 +15,9 @@ namespace PayrollApp.Areas.TaxData.Models
             {
                 Seeder.SeedGenericType<TaxBracket>(context.TaxBracket, "tax_bracket");
                 Seeder.SeedGenericType<TaxBreak>(context.TaxBreak, "tax_break");
-                context.TaxModel.AddRange(new TaxModel[] {
+                if (!context.TaxModel.Any())
+                {
+                    context.TaxModel.AddRange(new TaxModel[] {
                         new TaxModel {
                         TaxBrackets = context.TaxBracket.Where(b => b.Id < 3).ToList(),
                         ValidFrom = DateTime.Parse("2021-01-01"),
@@ -25,6 +27,7 @@ namespace PayrollApp.Areas.TaxData.Models
                         ValidFrom = DateTime.Parse("2018-01-01"),
                     }
                 });
+                }
                 context.SaveChanges();
             }
         }

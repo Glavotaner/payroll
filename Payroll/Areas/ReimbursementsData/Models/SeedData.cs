@@ -15,8 +15,10 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
             {
                 Seeder.SeedGenericType<Deductibles>(context.Deductible, "deductibles");
                 Seeder.SeedGenericType<Reimbursement>(context.Reimbursement, "reimbursement");
-                DateTime validFrom = DateTime.Parse("2020-01-01");
-                context.ReimbursementValue.AddRange(new ReimbursementValue[] {
+                if (!context.ReimbursementValue.Any())
+                {
+                    DateTime validFrom = DateTime.Parse("2020-01-01");
+                    context.ReimbursementValue.AddRange(new ReimbursementValue[] {
                     new ReimbursementValue {
                         Reimbursement = context.Reimbursement.Find(1)!,
                         Value = 500,
@@ -33,6 +35,8 @@ namespace PayrollApp.Areas.ReimbursementsData.Models
                         ValidFrom = validFrom,
                     },
                 });
+                }
+                
                 context.SaveChanges();
             }
         }
