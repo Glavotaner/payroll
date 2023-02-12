@@ -29,15 +29,25 @@ namespace PayrollApp.Areas.PayrollData.Models
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public decimal ContributionsBase { get; set; }
 
-        // TODO make virtual
         [Display(Name = "Contributions From Pay")]
-        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public decimal ContributionsFromPay { get; set; }
+        [DataType(DataType.Currency)]
+        [NotMapped]
+        public decimal ContributionsFromPay
+        {
+            get => (from contribution in ContributionAmounts
+                    where contribution.Contribution.FromPay
+                    select contribution.Amount).Sum();
+        }
 
-        // TODO make virtual
         [Display(Name = "Contributions Other")]
-        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public decimal ContributionsOther { get; set; }
+        [DataType(DataType.Currency)]
+        [NotMapped]
+        public decimal ContributionsOther
+        {
+            get => (from contribution in ContributionAmounts
+                     where !contribution.Contribution.FromPay
+                     select contribution.Amount).Sum();
+        }
 
         [Display(Name = "Contribution Amounts")]
         public virtual ICollection<ContributionAmount> ContributionAmounts { get; set; } = default!;
@@ -86,10 +96,13 @@ namespace PayrollApp.Areas.PayrollData.Models
         [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
         public decimal NetSalary { get; set; }
 
-        // TODO make virtual
         [Display(Name = "Reimbursement Amount")]
-        [DataType(DataType.Currency), Column(TypeName = "decimal(18, 2)")]
-        public decimal ReimbursementsAmount { get; set; }
+        [DataType(DataType.Currency)]
+        [NotMapped]
+        public decimal ReimbursementsAmount {
+            get => (from reimbursement in ReimbursementAmounts
+                    select reimbursement.Amount).Sum();
+        }
 
         [Display(Name = "Reimbursement Amounts")]
         public virtual ICollection<ReimbursementAmount> ReimbursementAmounts { get; set; } = default!;
