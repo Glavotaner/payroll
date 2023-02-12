@@ -18,12 +18,12 @@ namespace PayrollApp.Areas.PersonData.Models
         [Display(Name = "Date of Birth"), DataType(DataType.Date), Column(TypeName = "date")]
         public DateTime DateOfBirth { get; set; }
 
-        public Disability Disability { get; set; }
+        public Disability? Disability { get; set; }
     }
 
     public enum Disability
     {
-        Partial, Full, None
+        Partial, Full
     }
 }
 

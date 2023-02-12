@@ -16,7 +16,7 @@ namespace PayrollApp.Areas.EmploymentData.Models
         public DateTime Start { get; set; }
 
         [DataType(DataType.Date), Column(TypeName = "date"), EndDate]
-        public DateTime End { get; set; }
+        public DateTime? End { get; set; }
 
         [Display(Name = "Contract Type")]
         public virtual ContractType ContractType { get; set; } = default!;
